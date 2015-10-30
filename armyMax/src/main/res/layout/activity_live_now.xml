@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/record_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="1000dp"
+    android:background="@drawable/bg_gray_texture" >
+
+    <Button
+        android:id="@+id/recorder_control"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="@dimen/padding_medium"
+        android:text="Start"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/recordButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="16dp"
+        android:alpha=".7"
+        android:background="@drawable/red_dot"
+        android:gravity="center" />
+
+    <FrameLayout
+        android:id="@+id/live_frame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" >
+
+        <TextView
+            android:id="@+id/liveLabel"
+            android:layout_width="@dimen/broadcast_live_banner_width"
+            android:layout_height="50dp"
+            android:layout_gravity="left"
+            android:background="@drawable/live_orange_bg"
+            android:clickable="true"
+            android:drawablePadding="5dp"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:text="READY"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:textStyle="bold|italic"
+            android:visibility="visible" />
+
+    </FrameLayout>
+
+</RelativeLayout>

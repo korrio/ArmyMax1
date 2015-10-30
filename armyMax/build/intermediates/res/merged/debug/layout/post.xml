@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/post_thumbnail"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/post_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@+id/post_thumbnail"
+        android:text="Title"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</RelativeLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/post.xml -->

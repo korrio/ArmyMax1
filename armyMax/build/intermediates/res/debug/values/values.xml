@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/country_code.xml -->
+    <eat-comment/>
+    <string-array name="CountryCodes">
+        <item>93,AF</item>
+        <item>355,AL</item>
+        <item>213,DZ</item>
+        <item>376,AD</item>
+        <item>244,AO</item>
+        <item>54,AR</item>
+        <item>374,AM</item>
+        <item>297,AW</item>
+        <item>61,AU</item>
+        <item>43,AT</item>
+        <item>994,AZ</item>
+        <item>973,BH</item>
+        <item>880,BD</item>
+        <item>375,BY</item>
+        <item>32,BE</item>
+        <item>501,BZ</item>
+        <item>229,BJ</item>
+        <item>975,BT</item>
+        <item>591,BO</item>
+        <item>387,BA</item>
+        <item>267,BW</item>
+        <item>55,BR</item>
+        <item>673,BN</item>
+        <item>359,BG</item>
+        <item>226,BF</item>
+        <item>95,MM</item>
+        <item>257,BI</item>
+        <item>855,KH</item>
+        <item>237,CM</item>
+        <item>1,CA</item>
+        <item>238,CV</item>
+        <item>236,CF</item>
+        <item>235,TD</item>
+        <item>56,CL</item>
+        <item>86,CN</item>
+        <item>61,CX</item>
+        <item>61,CC</item>
+        <item>57,CO</item>
+        <item>269,KM</item>
+        <item>242,CG</item>
+        <item>243,CD</item>
+        <item>682,CK</item>
+        <item>506,CR</item>
+        <item>385,HR</item>
+        <item>53,CU</item>
+        <item>357,CY</item>
+        <item>420,CZ</item>
+        <item>45,DK</item>
+        <item>253,DJ</item>
+        <item>670,TL</item>
+        <item>593,EC</item>
+        <item>20,EG</item>
+        <item>503,SV</item>
+        <item>240,GQ</item>
+        <item>291,ER</item>
+        <item>372,EE</item>
+        <item>251,ET</item>
+        <item>500,FK</item>
+        <item>298,FO</item>
+        <item>679,FJ</item>
+        <item>358,FI</item>
+        <item>33,FR</item>
+        <item>689,PF</item>
+        <item>241,GA</item>
+        <item>220,GM</item>
+        <item>995,GE</item>
+        <item>49,DE</item>
+        <item>233,GH</item>
+        <item>350,GI</item>
+        <item>30,GR</item>
+        <item>299,GL</item>
+        <item>502,GT</item>
+        <item>224,GN</item>
+        <item>245,GW</item>
+        <item>592,GY</item>
+        <item>509,HT</item>
+        <item>504,HN</item>
+        <item>852,HK</item>
+        <item>36,HU</item>
+        <item>91,IN</item>
+        <item>62,ID</item>
+        <item>98,IR</item>
+        <item>964,IQ</item>
+        <item>353,IE</item>
+        <item>44,IM</item>
+        <item>972,IL</item>
+        <item>39,IT</item>
+        <item>225,CI</item>
+        <item>81,JP</item>
+        <item>962,JO</item>
+        <item>7,KZ</item>
+        <item>254,KE</item>
+        <item>686,KI</item>
+        <item>965,KW</item>
+        <item>996,KG</item>
+        <item>856,LA</item>
+        <item>371,LV</item>
+        <item>961,LB</item>
+        <item>266,LS</item>
+        <item>231,LR</item>
+        <item>218,LY</item>
+        <item>423,LI</item>
+        <item>370,LT</item>
+        <item>352,LU</item>
+        <item>853,MO</item>
+        <item>389,MK</item>
+        <item>261,MG</item>
+        <item>265,MW</item>
+        <item>60,MY</item>
+        <item>960,MV</item>
+        <item>223,ML</item>
+        <item>356,MT</item>
+        <item>692,MH</item>
+        <item>222,MR</item>
+        <item>230,MU</item>
+        <item>262,YT</item>
+        <item>52,MX</item>
+        <item>691,FM</item>
+        <item>373,MD</item>
+        <item>377,MC</item>
+        <item>976,MN</item>
+        <item>382,ME</item>
+        <item>212,MA</item>
+        <item>258,MZ</item>
+        <item>264,NA</item>
+        <item>674,NR</item>
+        <item>977,NP</item>
+        <item>31,NL</item>
+        <item>599,AN</item>
+        <item>687,NC</item>
+        <item>64,NZ</item>
+        <item>505,NI</item>
+        <item>227,NE</item>
+        <item>234,NG</item>
+        <item>683,NU</item>
+        <item>850,KP</item>
+        <item>47,NO</item>
+        <item>968,OM</item>
+        <item>92,PK</item>
+        <item>680,PW</item>
+        <item>507,PA</item>
+        <item>675,PG</item>
+        <item>595,PY</item>
+        <item>51,PE</item>
+        <item>63,PH</item>
+        <item>870,PN</item>
+        <item>48,PL</item>
+        <item>351,PT</item>
+        <item>1,PR</item>
+        <item>974,QA</item>
+        <item>40,RO</item>
+        <item>7,RU</item>
+        <item>250,RW</item>
+        <item>590,BL</item>
+        <item>685,WS</item>
+        <item>378,SM</item>
+        <item>239,ST</item>
+        <item>966,SA</item>
+        <item>221,SN</item>
+        <item>381,RS</item>
+        <item>248,SC</item>
+        <item>232,SL</item>
+        <item>65,SG</item>
+        <item>421,SK</item>
+        <item>386,SI</item>
+        <item>677,SB</item>
+        <item>252,SO</item>
+        <item>27,ZA</item>
+        <item>82,KR</item>
+        <item>34,ES</item>
+        <item>94,LK</item>
+        <item>290,SH</item>
+        <item>508,PM</item>
+        <item>249,SD</item>
+        <item>597,SR</item>
+        <item>268,SZ</item>
+        <item>46,SE</item>
+        <item>41,CH</item>
+        <item>963,SY</item>
+        <item>886,TW</item>
+        <item>992,TJ</item>
+        <item>255,TZ</item>
+        <item>66,TH</item>
+        <item>228,TG</item>
+        <item>690,TK</item>
+        <item>676,TO</item>
+        <item>216,TN</item>
+        <item>90,TR</item>
+        <item>993,TM</item>
+        <item>688,TV</item>
+        <item>971,AE</item>
+        <item>256,UG</item>
+        <item>44,GB</item>
+        <item>380,UA</item>
+        <item>598,UY</item>
+        <item>1,US</item>
+        <item>998,UZ</item>
+        <item>678,VU</item>
+        <item>39,VA</item>
+        <item>58,VE</item>
+        <item>84,VN</item>
+        <item>681,WF</item>
+        <item>967,YE</item>
+        <item>260,ZM</item>
+        <item>263,ZW</item>
+    </string-array>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string-array name="audioCodecs">
+        <item>OPUS</item>
+        <item>ISAC</item>
+    </string-array>
+    <string-array name="cameraFps">
+        <item>Default</item>
+        <item>30 fps</item>
+        <item>15 fps</item>
+    </string-array>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_phone</item>
+        <item>@drawable/ic_conference</item>
+        <item>@drawable/ic_live</item>
+        <item>@drawable/ic_everything</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photo</item>
+        <item>@drawable/ic_video_menu</item>
+        <item>@drawable/ic_notification</item>
+        <item>@drawable/ic_recent_chat</item>
+        <item>@drawable/ic_setting</item>
+        <item>@drawable/ic_logout</item>
+    </array>
+    <string-array name="nav_drawer_items">
+        <item>Phone Call</item>
+        <item>Conference</item>
+        <item>Live!</item>
+        <item>Everything</item>
+        <item>People</item>
+        <item>Photo</item>
+        <item>Video</item>
+        <item>Notification</item>
+        <item>Chat</item>
+        <item>Settings</item>
+        <item>Logout</item>
+    </string-array>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string-array name="nvd_items_array">
+        <item>Friends</item>
+        <item>Chats</item>
+        <item>Invite Friends</item>
+        <item>Settings</item>
+        <item>Give Feedback</item>
+    </string-array>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string-array name="startBitrate">
+        <item>Default</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="videoCodecs">
+        <item>VP8</item>
+        <item>VP9</item>
+        <item>H264</item>
+    </string-array>
+    <string-array name="videoResolutions">
+        <item>Default</item>
+        <item>HD (1280 x 720)</item>
+        <item>VGA (640 x 480)</item>
+        <item>QVGA (320 x 240)</item>
+    </string-array>
+    <string-array name="videoResolutionsValues">
+        <item>Default</item>
+        <item>1280 x 720</item>
+        <item>640 x 480</item>
+        <item>320 x 240</item>
+    </string-array>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/xwalk_resources_list.xml -->
+    <eat-comment/>
+    <string-array name="xwalk_resources_list">
+<item>icudtl.dat</item>
+<item>xwalk.pak</item>
+</string-array>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="reference" name="select_dialog_multichoice"/>
+    <attr format="reference" name="select_dialog_singlechoice"/>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/fr.tvbarthel.lib.blurdialogfragment/lib/1.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <bool name="blur_dialog_has_bottom_navigation_bar">true</bool>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/res/values/values.xml -->
+    <eat-comment/>
+    <bool name="sb__is_phone">true</bool>
+    <bool name="sb__is_swipeable">false</bool>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="action_bar">#0e4800</color>
+    <color name="action_bar2">#858c45</color>
+    <color name="action_bar3">#3ca7b5</color>
+    <color name="action_bar4">#1f2649</color>
+    <color name="action_bar_background_color">#0e4800</color>
+    <color name="avatar_border_color">#ffffff</color>
+    <color name="badge_online_color">#1cba48</color>
+    <color name="badge_participants_counter_color">#0d70b3</color>
+    <color name="badge_unread_messages_counter_color">#d20000</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/androidBootstrap/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="bbutton_danger">#ffd9534f</color>
+    <color name="bbutton_danger_disabled">#a5d9534f</color>
+    <color name="bbutton_danger_disabled_edge">#a5d43f3a</color>
+    <color name="bbutton_danger_edge">#ffd43f3a</color>
+    <color name="bbutton_danger_pressed">#ffd2322d</color>
+    <color name="bbutton_danger_pressed_edge">#ffac2925</color>
+    <color name="bbutton_default">#ffffffff</color>
+    <color name="bbutton_default_disabled">#a5ffffff</color>
+    <color name="bbutton_default_disabled_edge">#a5cccccc</color>
+    <color name="bbutton_default_edge">#ffcccccc</color>
+    <color name="bbutton_default_pressed">#ffebebeb</color>
+    <color name="bbutton_default_pressed_edge">#ffadadad</color>
+    <color name="bbutton_edittext_border">#ccc</color>
+    <color name="bbutton_edittext_disabled">#ffe0e0e0</color>
+    <color name="bbutton_info">#ff5bc0de</color>
+    <color name="bbutton_info_disabled">#a55bc0de</color>
+    <color name="bbutton_info_disabled_edge">#a546b8da</color>
+    <color name="bbutton_info_edge">#ff46b8da</color>
+    <color name="bbutton_info_pressed">#ff39b3d7</color>
+    <color name="bbutton_info_pressed_edge">#ff269abc</color>
+    <color name="bbutton_inverse">#ff0a0a0a</color>
+    <color name="bbutton_inverse_disabled">#a50a0a0a</color>
+    <color name="bbutton_inverse_disabled_edge">#a5141414</color>
+    <color name="bbutton_inverse_edge">#ff141414</color>
+    <color name="bbutton_inverse_pressed">#ff1f1f1f</color>
+    <color name="bbutton_inverse_pressed_edge">#ff292929</color>
+    <color name="bbutton_primary">#ff428bca</color>
+    <color name="bbutton_primary_disabled">#a5428bca</color>
+    <color name="bbutton_primary_disabled_edge">#a5357ebd</color>
+    <color name="bbutton_primary_edge">#ff357ebd</color>
+    <color name="bbutton_primary_pressed">#ff3276b1</color>
+    <color name="bbutton_primary_pressed_edge">#ff285e8e</color>
+    <color name="bbutton_success">#ff5cb85c</color>
+    <color name="bbutton_success_disabled">#a55cb85c</color>
+    <color name="bbutton_success_disabled_edge">#a54cae4c</color>
+    <color name="bbutton_success_edge">#ff4cae4c</color>
+    <color name="bbutton_success_pressed">#ff47a447</color>
+    <color name="bbutton_success_pressed_edge">#ff398439</color>
+    <color name="bbutton_warning">#fff0ad4e</color>
+    <color name="bbutton_warning_disabled">#a5f0ad4e</color>
+    <color name="bbutton_warning_disabled_edge">#a5eea236</color>
+    <color name="bbutton_warning_edge">#ffeea236</color>
+    <color name="bbutton_warning_pressed">#ffed9c28</color>
+    <color name="bbutton_warning_pressed_edge">#ffd58512</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="bg_dialog_title_color">#ff0bafde</color>
+    <color name="black">#000000</color>
+    <color name="black_color">#ff000000</color>
+    <color name="blue">#0d70b3</color>
+    <color name="blue_color">#ff0bafde</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/androidBootstrap/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="bthumbnail_background">#ffffffff</color>
+    <color name="bthumbnail_border">#dbdbdb</color>
+    <color name="bthumbnail_font">#7e7e7e</color>
+    <color name="bthumbnail_placeholder">#e9e9e9</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="btn_bg">#277bec</color>
+    <color name="button_end_call_normal_color">#ff0000</color>
+    <color name="button_end_call_pressed_color">#e4f4ff</color>
+    <color name="button_facebook_normal_color">#3b5998</color>
+    <color name="button_facebook_pressed_color">#ff265198</color>
+    <color name="button_global_search_normal_color">#00bf28</color>
+    <color name="button_global_search_pressed_color">#00851c</color>
+    <color name="button_log_in_normal_color">#00bf28</color>
+    <color name="button_log_in_pressed_color">#00851c</color>
+    <color name="button_null_background_pressed_color">#e4f4ff</color>
+    <color name="button_sign_up_normal_blue_color">#0077cb</color>
+    <color name="button_sign_up_normal_green_color">#00bf28</color>
+    <color name="button_sign_up_pressed_blue_color">#00538e</color>
+    <color name="button_sign_up_pressed_green_color">#00851c</color>
+    <color name="chat_background_color">#f5f5f5</color>
+    <color name="circle_view_mask_color">#ffffff</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="color_picker_background_color">#FFFFFF</color>
+    <color name="color_picker_border_color">#B0B0B0</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="comment">#FFEEFFEE</color>
+    <color name="contact_first_alphabet_bg_color">#fff0f0f0</color>
+    <color name="contact_info_bg">#fff0f0f0</color>
+    <color name="contact_list_name_color">#ff333333</color>
+    <color name="counter_text_bg">#f00</color>
+    <color name="counter_text_color">#ffffff</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.github.dmytrodanylyk.circular-progress-button/library/1.1.3/res/values/values.xml -->
+    <eat-comment/>
+    <color name="cpb_blue">#ff0099cc</color>
+    <color name="cpb_blue_dark">#ff00719b</color>
+    <color name="cpb_green">#ff99cc00</color>
+    <color name="cpb_green_dark">#ff6d9b00</color>
+    <color name="cpb_grey">#ffdedede</color>
+    <color name="cpb_red">#ffff4444</color>
+    <color name="cpb_red_dark">#ffcd3a3a</color>
+    <color name="cpb_white">@android:color/white</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="dark_gray">#ff6c6c6c</color>
+    <color name="dlg_message_name_color">#0d70b3</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="dropdown_dark_divider_color">#C0C0C0</color>
+    <color name="dropdown_divider_color">#E5E5E5</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="error_color">#ffe03d3e</color>
+    <color name="feed">#FFEEEEEE</color>
+    <color name="gray">#999999</color>
+    <color name="gray_color">#ff808080</color>
+    <color name="gray_line_color">#ffdddddd</color>
+    <color name="gray_white_color">#fff0f0f0</color>
+    <color name="green">#1cba48</color>
+    <color name="green_color">#ff71bf95</color>
+    <color name="guide_bg_color">#ff1f1f24</color>
+    <color name="home_bottom_button_color_nor">#ff808080</color>
+    <color name="home_bottom_button_color_pressed">#ff27aae0</color>
+    <color name="home_empty_text_color">#ffaeaeae</color>
+    <color name="home_line_color">#ffe0e0e0</color>
+    <color name="home_listview_line_color">#ffe0e0e0</color>
+    <color name="home_popup_line_color">#fff0f0f0</color>
+    <color name="home_popup_nor_color">#ff808080</color>
+    <color name="home_popup_pressed_color">#ffffffff</color>
+    <color name="home_popup_text_color_nor">#ff27aae0</color>
+    <color name="home_popup_text_color_pressed">#ffffffff</color>
+    <color name="home_text_deep_color">#ff373737</color>
+    <color name="home_text_high_color">#fff0f0f0</color>
+    <color name="home_text_high_light_color">#ffa0a0a0</color>
+    <color name="home_text_light_color">#ff808080</color>
+    <color name="light_gray">#ffefefef</color>
+    <color name="link_text_color">#0d70b3</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#ccc</color>
+    <color name="list_item_background_pressed_color">#e4f4ff</color>
+    <color name="list_item_title">#fff</color>
+    <color name="little_gray_color">#ffcacaca</color>
+    <color name="menu_item_background_activated_color">#1cba48</color>
+    <color name="menu_item_background_longpressed_color">#ff9de8a2</color>
+    <color name="menu_item_background_pressed_color">#1cba48</color>
+    <color name="off_white">#99ffffff</color>
+    <color name="orange_color">#fff48221</color>
+    <color name="quick_call_main_bg_color">#ff1f1f24</color>
+    <color name="red">#ff0000</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/res/values/values.xml -->
+    <eat-comment/>
+    <color name="sb__action_bg_color">#1affffff</color>
+    <color name="sb__action_text_color">#ffffffff</color>
+    <color name="sb__background">#ff323232</color>
+    <color name="sb__text_color">#ffffffff</color>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="screen_call_background_color">#333333</color>
+    <color name="screen_call_timer_text_color">#999999</color>
+    <color name="selected">#FFEEEEFF</color>
+    <color name="signup_button_disable_color">#ffd85445</color>
+    <color name="signup_button_nor_color">#ffd85445</color>
+    <color name="signup_button_pressed_color">#ffa54034</color>
+    <color name="top_bar_color">#ff1f1f24</color>
+    <color name="top_title_color">#ff2d8ed9</color>
+    <color name="transdark">#aa000000</color>
+    <color name="translight">#33000000</color>
+    <color name="transparent_full">#00000000</color>
+    <color name="transparent_grey">#AA666666</color>
+    <color name="transparent_half">#90000000</color>
+    <color name="txt_font">#4e5572</color>
+    <color name="view_background">#e8ecfa</color>
+    <color name="view_pager">#312783</color>
+    <color name="white">#ffffff</color>
+    <color name="white_color">#ffffffff</color>
+    <declare-styleable name="BootstrapButton"><attr format="string" name="bb_type"/><attr format="string" name="bb_icon_left"/><attr format="string" name="bb_icon_right"/><attr format="boolean" name="bb_roundedCorners"/><attr format="string" name="bb_text_alignment"/><attr format="string" name="bb_size"/><attr format="string" name="bb_text_gravity"/><attr name="android:textSize"/><attr name="android:text"/><attr name="android:enabled"/><attr name="android:layout_width"/></declare-styleable>
+    <declare-styleable name="BootstrapCircleThumbnail"><attr format="integer" name="bct_image"/><attr format="string" name="bct_size"/><attr format="boolean" name="bct_minimal"/><attr name="android:text"/></declare-styleable>
+    <declare-styleable name="BootstrapEditText"><attr format="boolean" name="be_roundedCorners"/><attr format="string" name="be_state"/><attr name="android:textSize"/><attr name="android:text"/><attr name="android:hint"/><attr name="android:enabled"/></declare-styleable>
+    <declare-styleable name="BootstrapThumbnail"><attr format="boolean" name="bt_roundedCorners"/><attr format="integer" name="bt_image"/><attr format="dimension" name="bt_width"/><attr format="dimension" name="bt_height"/><attr format="dimension" name="bt_inside_padding"/><attr name="android:text"/></declare-styleable>
+    <declare-styleable name="CircularProgressButton"><attr format="reference" name="cpb_selectorIdle"/><attr format="reference" name="cpb_selectorComplete"/><attr format="reference" name="cpb_selectorError"/><attr format="string" name="cpb_textComplete"/><attr format="string" name="cpb_textIdle"/><attr format="string" name="cpb_textError"/><attr format="string" name="cpb_textProgress"/><attr format="color" name="cpb_colorProgress"/><attr format="color" name="cpb_colorIndicator"/><attr format="color" name="cpb_colorIndicatorBackground"/><attr format="reference" name="cpb_iconError"/><attr format="reference" name="cpb_iconComplete"/><attr format="dimension" name="cpb_cornerRadius"/><attr format="dimension" name="cpb_paddingProgress"/></declare-styleable>
+    <declare-styleable name="FontAwesomeText"><attr format="string" name="fa_icon"/><attr name="android:textSize"/><attr name="android:textColor"/></declare-styleable>
+    <declare-styleable name="RefreshView"><attr format="enum" name="type"><enum name="sun" value="0"/><enum name="jet" value="1"/></attr></declare-styleable>
+    <declare-styleable name="RoundCornerProgress"><attr format="integer" name="progress"/><attr format="dimension" name="backgroundPadding"/><attr format="dimension" name="backgroundRadius"/><attr format="integer" name="max"/><attr format="integer" name="iconSrc"/><attr format="dimension" name="iconSize"/><attr format="dimension" name="iconPadding"/><attr format="color" name="headerColor"/><attr format="color" name="progressColor"/><attr format="color" name="backgroundColor"/></declare-styleable>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="act_call_avatar_size">150dp</dimen>
+    <dimen name="act_call_end_button_height">50dp</dimen>
+    <dimen name="act_call_end_button_width">200dp</dimen>
+    <dimen name="act_call_margin_top">50dp</dimen>
+    <dimen name="act_call_name_size">25sp</dimen>
+    <dimen name="act_call_video_scr_opponent_height">150dp</dimen>
+    <dimen name="act_call_video_scr_opponent_width">200dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/androidBootstrap/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="bbuton_rounded_corner_radius">5dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="broadcast_live_banner_width">190dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/androidBootstrap/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="bthumbnail_rounded_corner_radius">3dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="button_fb_height">70dp</dimen>
+    <dimen name="button_height">50dp</dimen>
+    <dimen name="button_icon_margin">10dp</dimen>
+    <dimen name="button_text_size">18sp</dimen>
+    <dimen name="chat_attach_height">200dp</dimen>
+    <dimen name="chat_attach_width">250dp</dimen>
+    <dimen name="chat_babble_margin">30dp</dimen>
+    <dimen name="chat_input_message_height">50dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="chat_tb_size">50dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/ui_java_dimens.xml -->
+    <eat-comment/>
+    <dimen name="color_button_height">60dp</dimen>
+    <dimen name="color_picker_gradient_margin">14.5dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="colorstrip">5dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/ui_java_dimens.xml -->
+    <eat-comment/>
+    <dimen name="config_min_scaling_span">27.0mm</dimen>
+    <dimen name="config_min_scaling_touch_major">48.0dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="content_tb">800dp</dimen>
+    <dimen name="content_tb_height">300dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="corners_big_value">15dp</dimen>
+    <dimen name="corners_middle_value">10dp</dimen>
+    <dimen name="corners_small_value">5dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.github.dmytrodanylyk.circular-progress-button/library/1.1.3/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="cpb_stroke_width">4dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="divider_height">1dip</dimen>
+    <dimen name="divider_width">1dip</dimen>
+    <dimen name="dlg_avatar_new_message_wh">30dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/ui_java_dimens.xml -->
+    <eat-comment/>
+    <dimen name="dropdown_item_divider_height">1px</dimen>
+    <dimen name="dropdown_item_height">44dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="grid_image_size">120dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="hightProfile">60dp</dimen>
+    <dimen name="hightProfile_dialog">100dp</dimen>
+    <dimen name="image_view_avatar_border_width">1dp</dimen>
+    <dimen name="image_view_big_avatar_layout_height">70dp</dimen>
+    <dimen name="image_view_big_avatar_layout_width">70dp</dimen>
+    <dimen name="image_view_small_avatar_layout_height">53dp</dimen>
+    <dimen name="image_view_small_avatar_layout_width">53dp</dimen>
+    <dimen name="inf_list_item_height">48dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="link_preview_overlay_radius">7dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="paddingAddfriend">20dp</dimen>
+    <dimen name="paddingTitleBar">10dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/androidBootstrap/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_micro">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="popup_height">800dp</dimen>
+    <dimen name="popup_width">1000dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="sb__bg_corner_radius">0dp</dimen>
+    <dimen name="sb__offset">0dp</dimen>
+    <dimen name="sb__text_padding_bottom">14dp</dimen>
+    <dimen name="sb__text_padding_left">24dp</dimen>
+    <dimen name="sb__text_padding_right">24dp</dimen>
+    <dimen name="sb__text_padding_top">14dp</dimen>
+    <dimen name="sb__text_size">14sp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="smile_height">40dp</dimen>
+    <dimen name="smile_padding">5dp</dimen>
+    <dimen name="smile_width">40dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="tb_size">30dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="tip_height">250dp</dimen>
+    <dimen name="widthProfile">60dp</dimen>
+    <dimen name="widthProfile_dialog">100dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/values.xml -->
+    <eat-comment/>
+    <item name="dropdown_popup_window" type="id"/>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/fr.tvbarthel.lib.blurdialogfragment/lib/1.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <integer name="blur_dialog_animation_duration">300</integer>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/refs.xml -->
+    <eat-comment/>
+    <item name="fragment_story" type="layout">@layout/fragment_story_list</item>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="acb_add_chat_title">Add Chat</string>
+    <string name="acb_add_friend_to_chat_title">Add friend to Chat</string>
+    <string name="acb_chat_attach_title">Add attach</string>
+    <string name="acb_chat_details_title">Chat details</string>
+    <string name="acb_delete_friend_title">Delete Friend</string>
+    <string name="acb_leave_chat_title">Leave Chat</string>
+    <string name="acb_search_title">Search</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="accessibility_content_view">"Web View"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_ui_strings.xml -->
+    <eat-comment/>
+    <string name="accessibility_date_picker_month">"Month"</string>
+    <string name="accessibility_date_picker_week">"Week"</string>
+    <string name="accessibility_date_picker_year">"Year"</string>
+    <string name="accessibility_datetime_picker_date">"Date"</string>
+    <string name="accessibility_datetime_picker_time">"Time"</string>
+    <string name="accessibility_time_picker_ampm">"AM/PM"</string>
+    <string name="accessibility_time_picker_hour">"Hour"</string>
+    <string name="accessibility_time_picker_milli">"Millisecond"</string>
+    <string name="accessibility_time_picker_minute">"Minute"</string>
+    <string name="accessibility_time_picker_second">"Second"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_check_updates">Check for Update</string>
+    <string name="action_help">Help</string>
+    <string name="action_live">Live!</string>
+    <string name="action_location_found">Found</string>
+    <string name="action_post">Post</string>
+    <string name="action_refresh">Reload</string>
+    <string name="action_search">Find</string>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_share">"Share"</string>
+    <string name="actionbar_web_search">"Web search"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="actions_fullscreen">Full Screen</string>
+    <string name="activity_sample_actionbar_blurred">Apply blur effect on action bar</string>
+    <string name="activity_sample_blur_debug">Debug enable</string>
+    <string name="activity_sample_blur_dimming">Dimming enable</string>
+    <string name="activity_sample_blur_radius">Blur radius : </string>
+    <string name="activity_sample_blur_userendercript">Use RenderScript if possible</string>
+    <string name="activity_sample_down_scale_factor">Down Scale Factor : </string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="add_room_description">Add new room to the list</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="afg_title">Add Friends</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="answer">Answer</string>
+    <string name="app_name">ArmyMax</string>
+    <string name="attempting_to_connect">Attempting to connect</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="blur_button">Blur Dialog</string>
+    <string name="blur_title">Blur Sample</string>
+    <string name="btnRecordVideo">Record Video</string>
+    <string name="btnTakePicture">Capture Image</string>
+    <string name="btnUploadToServer">Upload to Server</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/libcropimage/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="cancel">Cancel</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="channel_error_title">Connection error</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="cll_incoming_call_audio">Incoming Call</string>
+    <string name="cll_incoming_call_video">Incoming Video Call</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_ui_strings.xml -->
+    <eat-comment/>
+    <string name="color_picker_button_black">"Black"</string>
+    <string name="color_picker_button_blue">"Blue"</string>
+    <string name="color_picker_button_cancel">"Cancel"</string>
+    <string name="color_picker_button_cyan">"Cyan"</string>
+    <string name="color_picker_button_green">"Green"</string>
+    <string name="color_picker_button_magenta">"Magenta"</string>
+    <string name="color_picker_button_more">"More"</string>
+    <string name="color_picker_button_red">"Red"</string>
+    <string name="color_picker_button_set">"Set"</string>
+    <string name="color_picker_button_white">"White"</string>
+    <string name="color_picker_button_yellow">"Yellow"</string>
+    <string name="color_picker_dialog_title">"Select color"</string>
+    <string name="color_picker_hue">"Hue"</string>
+    <string name="color_picker_saturation">"Saturation"</string>
+    <string name="color_picker_value">"Value"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/com_crashlytics_export_strings.xml -->
+    <eat-comment/>
+    <string name="com.crashlytics.android.build_id" translatable="false">52b08c80-8cda-4de5-ae7c-1522dd5cd5d8</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="commented">Commented</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="connect_description">Connect to the room</string>
+    <string name="connect_loopback_description">Loopback connection</string>
+    <string name="connect_text">Connect</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="connected">Connected</string>
+    <string name="connection_error">Connection error</string>
+    <string name="connection_error_fmt">Connection error: %s</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_ui_strings.xml -->
+    <eat-comment/>
+    <string name="copy_to_clipboard_failure_message">"Failed to copy to the clipboard"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="couldnt_establish_outgoing">Couldn\'t establish outgoing call</string>
+    <string name="couldnt_establish_outgoing_fmt">Couldn\'t establish outgoing call: %s</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_xwalk_strings.xml -->
+    <eat-comment/>
+    <string name="cpu_arch_mismatch_message">"Unfortunately this application was not created for %1$s based devices, please take a moment to notify the developer about it. Thanks."</string>
+    <string name="cpu_arch_mismatch_title">"Mismatch of CPU architecture for Crosswalk"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="cpw_change">Change</string>
+    <string name="cpw_change_password_title">Change Password</string>
+    <string name="cpw_new_password">New Password</string>
+    <string name="cpw_not_new_password_field_entered">Please enter new password</string>
+    <string name="cpw_not_old_password_field_entered">Please enter old password</string>
+    <string name="cpw_old_password">Old Password</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="create_conference">กำลังสร้างห้องประชุม</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_ui_strings.xml -->
+    <eat-comment/>
+    <string name="date_picker_dialog_clear">"Clear"</string>
+    <string name="date_picker_dialog_other_button_label">"Other"</string>
+    <string name="date_picker_dialog_set">"Set"</string>
+    <string name="date_picker_dialog_title">"Set date"</string>
+    <string name="date_time_picker_dialog_title">"Set date and time"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.github.dmytrodanylyk.circular-progress-button/library/1.1.3/res/values/values.xml -->
+    <eat-comment/>
+    <string name="define_circularprogressbutton">circularprogressbutton</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="device_listening">Device is listening for incoming connections</string>
+    <string name="device_listening_error_fmt">Device is no longer listening for incoming connections due to error: %s</string>
+    <string name="device_not_listening">Device is no longer listening for incoming connections</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="dialog_fragment_title">Blur Dialog Fragment\n\nhttps://github.com/tvbarthel/BlurDialogFragment</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="disconnect_attempt">Attempting to disconnect</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="disconnect_call">Disconnect Call</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="disconnected">Disconnected</string>
+    <string name="discuss">Discuss / Feature Request</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="dlg_attached_last_message">Attachment</string>
+    <string name="dlg_cancel">Cancel</string>
+    <string name="dlg_click_back_again">Please click BACK again to exit</string>
+    <string name="dlg_confirm">Are you sure?</string>
+    <string name="dlg_empty_email">Email can\'t be empty</string>
+    <string name="dlg_fail_connection">Sorry, connection lost. It will be reestablished when the Internet will be available.</string>
+    <string name="dlg_fail_create_chat">Errors occurred while creating chat! Please, try later</string>
+    <string name="dlg_fail_create_groupchat">Errors occurred while creating group chat! Please, try later</string>
+    <string name="dlg_fail_rest_login">Couldn\'t authorize on server. Please check your credentials</string>
+    <string name="dlg_fail_send_msg">Errors occurred while sending msg! Please, try later</string>
+    <string name="dlg_fail_upload_attach">Errors occurred during loading file</string>
+    <string name="dlg_friend_removed">Friend is removed</string>
+    <string name="dlg_get_file_failed">Failed to get file from gallery</string>
+    <string name="dlg_hint_message">Type a message</string>
+    <string name="dlg_leave_group">Leave Group</string>
+    <string name="dlg_logout">Logout</string>
+    <string name="dlg_message">Message</string>
+    <string name="dlg_no_chats">There are no chats yet.</string>
+    <string name="dlg_no_contacts_friends">No Contacts friends</string>
+    <string name="dlg_no_facebook_friends">No Facebook friends</string>
+    <string name="dlg_no_friends">No friends</string>
+    <string name="dlg_no_friends_for_import">There are no friends in VDOMAX app</string>
+    <string name="dlg_no_friends_selected">Please, select some Friends for invite!</string>
+    <string name="dlg_no_message_yet">No message yet</string>
+    <string name="dlg_not_all_fields_entered">Please fill all empty input fields</string>
+    <string name="dlg_not_email_field_entered">Please enter email</string>
+    <string name="dlg_not_fullname_field_entered">Please enter fullname</string>
+    <string name="dlg_not_password_field_entered">Please enter password</string>
+    <string name="dlg_offline_call"> %1$s is calling you !</string>
+    <string name="dlg_ok">OK</string>
+    <string name="dlg_old_password_wrong">Wrong old password</string>
+    <string name="dlg_password_changed">Password changed</string>
+    <string name="dlg_passwords_not_equal">New password and confirmation are not equal</string>
+    <string name="dlg_remove_user">Remove user</string>
+    <string name="dlg_success_posted_to_facebook">Facebook chat was sent successful!</string>
+    <string name="dlg_user_updated">User saved</string>
+    <string name="dlg_wait_please">Please, wait</string>
+    <string name="dlg_wrong_signaling">Can\'t perform call. Problem with signaling</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_xwalk_strings.xml -->
+    <eat-comment/>
+    <string name="download_already_exists_toast">"Downloading file already exists, abort."</string>
+    <string name="download_failed_toast">"Failed to download file."</string>
+    <string name="download_finished_toast">"Finished to download file."</string>
+    <string name="download_no_permission_toast">"No permission to write, abort."</string>
+    <string name="download_start_toast">"Downloading file:"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="error">Aror!</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="error_playing_ringtone">Error during playing ringtone</string>
+    <string name="error_playing_wrong_source">Wrong sound resource</string>
+    <string name="facebook_exception">Facebook exception: </string>
+    <string name="fdb_bug_type">Bug</string>
+    <string name="fdb_choose_email_provider">Choose an email provider:</string>
+    <string name="fdb_feedback_label">
+        Please write in email the steps to make the bug or error appear again.
+        Let us know how often it occurs and if it give an error code.
+         We need to know this in order to find the source of the problem. 
+        Please give us as many details as possible. Thank you. 
+    </string>
+    <string name="fdb_feedback_title">Feedback Description</string>
+    <string name="fdb_improvement_type">Improvement</string>
+    <string name="fdb_suggestion_type">Suggestion</string>
+    <string name="fdb_support_email">VDOMAX@quickblox.com</string>
+    <string name="fdb_write_email">Write an Email</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="feedback">Feedback</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="file_was_attached">file was attached</string>
+    <string name="fpw_email">Email</string>
+    <string name="fpw_email_was_sent">Mail was sent to %1$s</string>
+    <string name="fpw_forgot_password_title">Forgot Password</string>
+    <string name="fpw_not_email_field_entered">Please enter email</string>
+    <string name="fpw_reset_password">Reset Password</string>
+    <string name="frd_audio_call">Audio Call</string>
+    <string name="frd_chat">Chat</string>
+    <string name="frd_mobile">MOBILE</string>
+    <string name="frd_offline_user">User must be online</string>
+    <string name="frd_title">Details</string>
+    <string name="frd_video_call">Video Call</string>
+    <string name="frl_all_users">All Users</string>
+    <string name="frl_friends">Friends</string>
+    <string name="frl_global_search">Global Search</string>
+    <string name="frl_no_friends">Currently there are no friends.\nYou can search friends or invite them via Invite screen.</string>
+    <string name="frl_not_found_users">Sorry… no users</string>
+    <string name="frl_offline">Offline</string>
+    <string name="frl_online">Online</string>
+    <string name="gdd_leave_group">Leave group</string>
+    <string name="gdd_online_participants">%1$d/%2$d online</string>
+    <string name="gdd_participants">%1$d participants</string>
+    <string name="gdd_title">Group Details</string>
+    <string name="gdl_ctx_menu_profile">View Profile</string>
+    <string name="gdl_ctx_menu_prv_message">Private Message</string>
+    <string name="gdl_ctx_menu_reply">Reply</string>
+    <string name="gdl_ctx_menu_video_call">Video Call</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="got_incoming">Received incoming connection</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_xwalk_strings.xml -->
+    <eat-comment/>
+    <string name="goto_store_button_label">"Go to Google Play Store"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/androidBootstrap/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_xwalk_strings.xml -->
+    <eat-comment/>
+    <string name="http_auth_log_in">"Log In"</string>
+    <string name="http_auth_password">"Password"</string>
+    <string name="http_auth_title">"Authentication Required"</string>
+    <string name="http_auth_user_name">"Username"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="ignore">Ignore</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="ignore_content_description">ignored</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="incoming_call_message">You have a new incoming call. Answer it?</string>
+    <string name="incoming_disconnected">Pending incoming connection disconnected</string>
+    <string name="incoming_ok">Incoming calls allowed</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="inf_body_of_invitation">Dear friend, use VDOMAX application to reach me!\nDownload it here: http://VDOMAX.com/</string>
+    <string name="inf_choose_email_provider">Choose an email provider:</string>
+    <string name="inf_fb_wall_param_description">Dear friend, use VDOMAX application to reach me!\nDownload it here: http://VDOMAX.com/</string>
+    <string name="inf_fb_wall_param_link">http://VDOMAX.com/</string>
+    <string name="inf_fb_wall_param_name">VDOMAX</string>
+    <string name="inf_fb_wall_param_picture">http://files.quickblox.com/ic_launcher.png</string>
+    <string name="inf_fb_wall_param_place">155021662189</string>
+    <string name="inf_from_contacts">(invite via Email)</string>
+    <string name="inf_from_facebook">(invite via Facebook)</string>
+    <string name="inf_header_label">Let your other friends know about \n VDOMAX by sending them private invitations</string>
+    <string name="inf_select_from_contacts">From Contacts</string>
+    <string name="inf_select_from_facebook">From Facebook</string>
+    <string name="inf_send">Send</string>
+    <string name="inf_subject_of_invitation">VDOMAX</string>
+    <string name="inf_url_to_facebook_avatar">https://graph.facebook.com/%1$s/picture?type=normal</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="invalid_url_text">The URL or room name you entered resulted in an invalid URL: %1$s
+    </string>
+    <string name="invalid_url_title">Invalid URL</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_xwalk_strings.xml -->
+    <eat-comment/>
+    <string name="js_alert_title">"Javascript Alert"</string>
+    <string name="js_confirm_title">"Javascript Confirm"</string>
+    <string name="js_prompt_title">"Javascript Prompt"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="label_done">Done</string>
+    <string name="lgn_email_hint">Email</string>
+    <string name="lgn_error">This username has not authenticated yet, please check your credentials</string>
+    <string name="lgn_forgot_password">Forgot password?</string>
+    <string name="lgn_log_in_with_facebook">Log in with Facebook</string>
+    <string name="lgn_login">Log In</string>
+    <string name="lgn_password_hint">Password</string>
+    <string name="lgn_remember_me">Remember Me</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.github.dmytrodanylyk.circular-progress-button/library/1.1.3/res/values/values.xml -->
+    <eat-comment/>
+    <string name="library_circularprogressbutton_author">Dmytro Danylyk</string>
+    <string name="library_circularprogressbutton_authorWebsite">http://dmytrodanylyk.com/</string>
+    <string name="library_circularprogressbutton_isOpenSource">true</string>
+    <string name="library_circularprogressbutton_libraryDescription">Android Button which can morph to Circular Progress.</string>
+    <string name="library_circularprogressbutton_libraryName">Circular Progress Button</string>
+    <string name="library_circularprogressbutton_libraryVersion">1.1.0</string>
+    <string name="library_circularprogressbutton_libraryWebsite">http://dmytrodanylyk.com/pages/portfolio/circular-progress-button.html</string>
+    <string name="library_circularprogressbutton_licenseId">mit</string>
+    <string name="library_circularprogressbutton_repositoryLink">https://github.com/dmytrodanylyk/circular-progress-button</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="liked">Liked</string>
+    <string name="list_conference">กำลังโหลดรายการห้องประชุม</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="lnd_connect_with_facebook">Connect with Facebook</string>
+    <string name="lnd_have_account">Already have an account?</string>
+    <string name="lnd_no_app_version">Couldn\'t get app version</string>
+    <string name="lnd_sign_up">Sign Up with Email</string>
+    <string name="lnd_version">v. %1$s</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="logging_in">Logging in</string>
+    <string name="login_error_fmt">Error logging in: %s</string>
+    <string name="login_error_unknown">Unknown error logging in</string>
+    <string name="logout">Logout</string>
+    <string name="logout_sum">Logout ArmyMax</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_ui_strings.xml -->
+    <eat-comment/>
+    <string name="low_memory_error">"Unable to complete previous operation due to low memory"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Sorry, this video is not valid for streaming to this device."</string>
+    <string name="media_player_error_text_unknown">"Sorry, this video cannot be played."</string>
+    <string name="media_player_error_title">"Cannot play video"</string>
+    <string name="media_player_loading_video">"Loading video"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="missing_url">FATAL ERROR: Missing URL to connect to.</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_ui_strings.xml -->
+    <eat-comment/>
+    <string name="month_picker_dialog_title">"Set month"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="n_sso">Single Sign On</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="ndl_ac_mode_title">Group chat participants:</string>
+    <string name="ndl_title">New Group Chat</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="no_incoming_capability">Unable to make incoming calls with current capabilities</string>
+    <string name="no_outgoing_capability">Unable to make outgoing calls with current capabilities</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/libcropimage/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="no_storage_card">No storage card</string>
+    <string name="not_enough_space">Not enough space</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="nvd_close">Close navigation drawer</string>
+    <string name="nvd_open">Open navigation drawer</string>
+    <string name="nvd_title_chats">Chats</string>
+    <string name="nvd_title_feedback">Feedback</string>
+    <string name="nvd_title_friends">Friends</string>
+    <string name="nvd_title_invite_friends">Invite Friends</string>
+    <string name="nvd_title_settings">Settings</string>
+    <string name="nvd_title_web_room">Web room</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="ok">OK</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_ui_strings.xml -->
+    <eat-comment/>
+    <string name="opening_file_error">"Failed to open selected file"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="or">(or)</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="outgoing_ok">Outgoing calls allowed</string>
+    <string name="p_location_update">Location update</string>
+    <string name="p_sso_sum">Use device account to sign on</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="pref_audiocodec_default">OPUS</string>
+    <string name="pref_audiocodec_dlg">Select default audio codec.</string>
+    <string name="pref_audiocodec_key">audiocodec_preference</string>
+    <string name="pref_audiocodec_title">Default audio codec.</string>
+    <string name="pref_audiosettings_key">audio_settings_key</string>
+    <string name="pref_audiosettings_title">WebRTC audio settings.</string>
+    <string name="pref_cpu_usage_detection_default" translatable="false">true</string>
+    <string name="pref_cpu_usage_detection_dlg">Adapt transmission to CPU status.</string>
+    <string name="pref_cpu_usage_detection_key">cpu_usage_detection</string>
+    <string name="pref_cpu_usage_detection_title">CPU overuse detection.</string>
+    <string name="pref_displayhud_default" translatable="false">false</string>
+    <string name="pref_displayhud_dlg">Display call statistics.</string>
+    <string name="pref_displayhud_key">displayhud_preference</string>
+    <string name="pref_displayhud_title">Display call statistics.</string>
+    <string name="pref_fps_default">Default</string>
+    <string name="pref_fps_dlg">Enter local camera fps.</string>
+    <string name="pref_fps_key">fps_preference</string>
+    <string name="pref_fps_title">Camera fps.</string>
+    <string name="pref_hwcodec_default">true</string>
+    <string name="pref_hwcodec_dlg">Use hardware accelerated video codec (if available).</string>
+    <string name="pref_hwcodec_key">hwcodec_preference</string>
+    <string name="pref_hwcodec_title">Video codec hardware acceleration.</string>
+    <string name="pref_miscsettings_key">misc_settings_key</string>
+    <string name="pref_miscsettings_title">Miscellaneous settings.</string>
+    <string name="pref_noaudioprocessing_default">false</string>
+    <string name="pref_noaudioprocessing_dlg">Disable audio processing pipeline.</string>
+    <string name="pref_noaudioprocessing_key">audioprocessing_preference</string>
+    <string name="pref_noaudioprocessing_title">Disable audio processing.</string>
+    <string name="pref_resolution_default">Default</string>
+    <string name="pref_resolution_dlg">Enter AppRTC local video resolution.</string>
+    <string name="pref_resolution_key">resolution_preference</string>
+    <string name="pref_resolution_title">Video resolution.</string>
+    <string name="pref_room_key">room_preference</string>
+    <string name="pref_room_list_key">room_list_preference</string>
+    <string name="pref_room_server_url_default" translatable="false">http://chat.vdomax.com:1314</string>
+    <string name="pref_room_server_url_dlg">Enter a room server URL.</string>
+    <string name="pref_room_server_url_key">room_server_url_preference</string>
+    <string name="pref_room_server_url_title">Room server URL.</string>
+    <string name="pref_startaudiobitrate_default">Default</string>
+    <string name="pref_startaudiobitrate_dlg">Audio bitrate setting.</string>
+    <string name="pref_startaudiobitrate_key">startaudiobitrate_preference</string>
+    <string name="pref_startaudiobitrate_title">Audio bitrate setting.</string>
+    <string name="pref_startaudiobitratevalue_default">32</string>
+    <string name="pref_startaudiobitratevalue_dlg">Enter audio codec bitrate in kbps.</string>
+    <string name="pref_startaudiobitratevalue_key">startaudiobitratevalue_preference</string>
+    <string name="pref_startaudiobitratevalue_title">Audio codec bitrate.</string>
+    <string name="pref_startvideobitrate_default">Default</string>
+    <string name="pref_startvideobitrate_dlg">Start video bitrate setting.</string>
+    <string name="pref_startvideobitrate_key">startvideobitrate_preference</string>
+    <string name="pref_startvideobitrate_title">Start video bitrate setting.</string>
+    <string name="pref_startvideobitratevalue_default">1000</string>
+    <string name="pref_startvideobitratevalue_dlg">Enter video encoder start bitrate in kbps.</string>
+    <string name="pref_startvideobitratevalue_key">startvideobitratevalue_preference</string>
+    <string name="pref_startvideobitratevalue_title">Video encoder start bitrate.</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="pref_title_media">Media</string>
+    <string name="pref_title_presence">Presence</string>
+    <string name="pref_title_profile_and_details">Profile and details</string>
+    <string name="pref_title_push_notifications">Push Notifications</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="pref_value_disabled">Disabled</string>
+    <string name="pref_value_enabled">Enabled</string>
+    <string name="pref_videocall_default">true</string>
+    <string name="pref_videocall_dlg">Enable video in a call.</string>
+    <string name="pref_videocall_key">videocall_preference</string>
+    <string name="pref_videocall_title">Video call.</string>
+    <string name="pref_videocodec_default">VP8</string>
+    <string name="pref_videocodec_dlg">Select default video codec.</string>
+    <string name="pref_videocodec_key">videocodec_preference</string>
+    <string name="pref_videocodec_title">Default video codec.</string>
+    <string name="pref_videosettings_key">video_settings_key</string>
+    <string name="pref_videosettings_title">WebRTC video settings.</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="prefs_name">ARMYMAX</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/libcropimage/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="preparing_card">Preparing card</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="prf_change">Change</string>
+    <string name="prf_done">Done</string>
+    <string name="prf_email">Email</string>
+    <string name="prf_full_name">Full Name</string>
+    <string name="prf_phone">Phone</string>
+    <string name="prf_status_message">Status Message</string>
+    <string name="prf_title">Profile</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_content_strings.xml -->
+    <eat-comment/>
+    <string name="profiler_error_toast">"Failed to start profiler"</string>
+    <string name="profiler_no_storage_toast">"Can\'t start profiler because external storage is not ready"</string>
+    <string name="profiler_started_toast">"Profiler started"</string>
+    <string name="profiler_stopped_toast">"Profiler finished. Results are in %1$s."</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="remove_room_description">Remove room from the list</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_xwalk_strings.xml -->
+    <eat-comment/>
+    <string name="report_feedback_button_label">"Report to developer"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="report_problem">Report Problem</string>
+    <string name="report_problem_sum">Send report to developer</string>
+    <string name="req_conference">กำลังร้องขอห้องประชุม</string>
+    <string name="req_conference_error">การร้องขอห้องประชุมเกิดปัญหา</string>
+    <string name="review">Review</string>
+    <string name="review_app_sum">Review this app</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="room_description">
+        Please enter a room name. Room names are shared with everyone, so think
+        of something unique and send it to a friend.
+    </string>
+    <string name="room_names">Room names:</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/libcropimage/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="save">Save</string>
+    <string name="saving_image">Saving image</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="search_hint">Search</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="sending">Sending</string>
+    <string name="settings">Settings</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="settings_name" translatable="no">AppRTC Settings</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="share">Share</string>
+    <string name="share_app_message">Liking this Facebook app on Android</string>
+    <string name="share_app_sum">Share this app</string>
+    <string name="shared">Shared</string>
+    <string name="sharing">Sharing</string>
+    <string name="speaker_off">Speakerphone off</string>
+    <string name="speaker_on">Speakerphone on</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_xwalk_strings.xml -->
+    <eat-comment/>
+    <string name="ssl_alert_title">"Ssl Certificate Error Alert"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="stn_change_password">Change Password</string>
+    <string name="stn_logout">Log Out</string>
+    <string name="stn_profile">Profile</string>
+    <string name="stn_push_notifivation">Push Notification</string>
+    <string name="stn_version">Version %1$s</string>
+    <string name="sup_choose_user_picture">Choose user picture</string>
+    <string name="sup_email_hint">Email</string>
+    <string name="sup_fullname_hint">Full Name</string>
+    <string name="sup_sign_up">Sign Up</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="switch_camera">Switch front/back camera</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="tablet">false</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_ui_strings.xml -->
+    <eat-comment/>
+    <string name="time_picker_dialog_am">"AM"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"PM"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Set time"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="tip_friend_list_button">Find friends </string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="toggle_debug">Toggle debug view</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="uag_policy_link">http://www.vdomax.com/agreement/</string>
+    <string name="uag_user_agreement">By clicking Sign Up, you agree to \nVDOMAX <b><u>User Agreement</u></b></string>
+    <string name="uag_user_agreement_title">User Agreement</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="updated">Updated</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="uploading_file">Uploading… Please wait</string>
+    <string name="user_created_room">%1$s created group chat</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="version">Version</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/string.xml -->
+    <eat-comment/>
+    <string name="videochat_init_fail">Unfortunately, call was closed! It is impossible to initialize multimedia resources on your device</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/android_ui_strings.xml -->
+    <eat-comment/>
+    <string name="week_picker_dialog_title">"Set week"</string>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="ActionBarButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/action_bar</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+    </style>
+    <style name="ActionBarButtonOffWhite" parent="@style/ActionBarButton">
+        <item name="android:textColor">@color/off_white</item>
+    </style>
+    <style name="ActionBarButtonWhite" parent="@style/ActionBarButton">
+        <item name="android:textColor">@color/action_bar</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/fr.tvbarthel.lib.blurdialogfragment/lib/1.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="BlurDialogFragment.Default.Animation" parent="@android:style/Animation.Activity">
+        <item name="android:windowEnterAnimation">@anim/default_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/default_dialog_out</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/libcropimage/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="CropButton">
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/selector_crop_button</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="DialPadRow">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_weight">0.25</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dialog_style.xml -->
+    <eat-comment/>
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowTitleStyle">@style/MyOwnDialogTitle</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="DialtactsDialpadButtonStyle">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="DialtactsDigitsTextAppearance">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textSize">32dp</item>
+        <item name="android:freezesText">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:editable">true</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:layout_weight">0</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/ui_java_styles.xml -->
+    <eat-comment/>
+    <style name="DropdownPopupWindow" parent="@android:style/Widget.ListPopupWindow">
+    
+        
+    <item name="android:popupBackground">@drawable/dropdown_popup_background</item>
+    
+    
+  </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Item">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">300dp</item>
+    </style>
+    <style name="Item.Sticky">
+        <item name="android:background">#eee</item>
+        <item name="android:textColor">#aaa</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+    <style name="MyActionButtonOverflow" parent="android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_setting</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/dialog_style.xml -->
+    <eat-comment/>
+    <style name="MyOwnDialogTitle">
+        <item name="android:background">@color/action_bar</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24dp</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyTheme.ActionBarStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/MyActionButtonOverflow</item>
+        <item name="android:actionBarTabStyle">@style/Widget.Holo.Tab</item>
+        
+    <item name="android:actionMenuTextColor">@color/white</item>
+    </style>
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="MyTheme.ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+        <item name="android:background">#0e4800</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="SelectPopupDialog">
+    
+        
+    <item name="select_dialog_singlechoice">@android:layout/select_dialog_singlechoice</item>
+    
+        
+    <item name="select_dialog_multichoice">@android:layout/select_dialog_multichoice</item>
+    
+    
+  </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Snackbar"/>
+    <style name="Snackbar.Text">
+        <item name="android:paddingBottom">@dimen/sb__text_padding_bottom</item>
+        <item name="android:paddingLeft">@dimen/sb__text_padding_left</item>
+        <item name="android:paddingTop">@dimen/sb__text_padding_top</item>
+        <item name="android:paddingRight">@dimen/sb__text_padding_right</item>
+        <item name="android:textSize">@dimen/sb__text_size</item>
+        <item name="android:textColor">@color/sb__text_color</item>
+    </style>
+    <style name="Snackbar.Text.Action">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/sb__action_text_color</item>
+        <item name="android:background">@drawable/sb__btn_bg</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="ThemeDialogCustom">
+<item name="android:windowFrame">@null</item>
+<item name="android:windowIsFloating">true</item>
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowContentOverlay">@null</item>
+<item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+<item name="android:windowBackground">@android:color/transparent</item>
+<item name="android:colorBackgroundCacheHint">@null</item>
+</style>
+    <style name="Widget.Button.Toggle" parent="android:Widget">
+        <item name="android:background">@drawable/ic_toggle_bg</item>
+        <item name="android:disabledAlpha">?android:attr/disabledAlpha</item>
+    </style>
+    <style name="Widget.Holo.Tab" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:height">70dp</item>
+         <item name="android:background">@color/action_bar2</item>
+    </style>
+    <style name="toggleButton" parent="@android:Theme.Black">
+        <item name="android:buttonStyleToggle">@style/Widget.Button.Toggle</item>
+        <item name="android:textOn"/>
+        <item name="android:textOff"/>
+    </style>
+</resources>

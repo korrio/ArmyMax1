@@ -1,0 +1,19 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    tools:context=".ChatTabs" >
+
+    <org.xwalk.core.XWalkView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/conference"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.25" >
+
+    </org.xwalk.core.XWalkView>
+
+</LinearLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/activity_conference.xml -->

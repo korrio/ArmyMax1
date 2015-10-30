@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="snackbar-2.9.1">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/res" />
+      <root url="jar://$PROJECT_DIR$/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nispok/snackbar/2.9.1/efdb91c2e9c4ae01fba177270d6fb0d6d302cd33/snackbar-2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

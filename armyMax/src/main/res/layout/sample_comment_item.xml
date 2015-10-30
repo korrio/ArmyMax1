@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="6dip"
+    android:paddingLeft="8dip"
+    android:paddingRight="8dip"
+    android:paddingTop="5dip" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp" >
+
+        <ImageView
+            android:id="@+id/tb"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:layout_marginTop="3dip"
+            android:background="#fff" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dip"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/statusName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="Adam Smith"
+                android:textColor="#3B5998"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ago"
+                android:layout_width="wrap_content"
+                android:layout_height="20dip"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:text="2 hours ago"
+                android:textColor="#AAAAAA"
+                android:textSize="12sp" />
+
+            <com.androidquery.simplefeed.ui.SlimTextView
+                android:id="@+id/desc"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="I like this app!"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

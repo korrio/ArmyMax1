@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+     <!-- Search 
+    <item android:id="@+id/action_search"
+          android:icon="@drawable/ic_action_search"
+          android:title="@string/action_search"
+          android:showAsAction="ifRoom" 
+          android:actionViewClass="android.widget.SearchView"/> 
+    -->
+    <!-- Live -->
+    <item android:id="@+id/action_friend"
+          android:title="FRIENDS"
+          android:showAsAction="ifRoom"/>     
+
+    
+    <!-- Settings -->
+    <item android:id="@+id/action_recent"
+          android:title="RECENT"
+          android:showAsAction="ifRoom"/>
+     
+</menu>

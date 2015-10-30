@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical" >
+
+    <FrameLayout
+        android:id="@+id/myframe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.yalantis.pulltorefresh.library.PullToRefreshView
+            android:id="@+id/pull_to_refresh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ListView
+                android:id="@+id/feed_listview"
+                android:divider="@null"
+                android:dividerHeight="0dp"
+                android:background="@drawable/bg_gray_texture"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </com.yalantis.pulltorefresh.library.PullToRefreshView>
+
+        <!--
+        <ListView
+            android:id="@+id/feed_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_gray_texture"
+            android:clipToPadding="true"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            />
+            -->
+
+        <ProgressBar
+            android:id="@+id/progress"
+            style="@android:style/Widget.ProgressBar"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="200dp"
+            android:visibility="invisible" />
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/sticky"
+        style="@style/Item.Sticky"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="ยังเดินผ่านทุกวัน"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:id="@+id/footer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentTop="false"
+        android:layout_margin="0dp"
+        android:visibility="visible" >
+
+        <Button
+            android:id="@+id/button_recent"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_gravity="bottom"
+            android:layout_weight="0.5"
+            android:background="@color/action_bar"
+            android:drawableTop="@drawable/ic_post"
+            android:paddingTop="10dp"
+            android:text="Status"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/button_photo"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="0.5"
+            android:background="@color/action_bar2"
+            android:drawableTop="@drawable/ic_camera2"
+            android:paddingTop="10dp"
+            android:text="Photo"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/button_video"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="0.5"
+            android:background="@color/action_bar"
+            android:drawableTop="@drawable/ic_post_video2"
+            android:minHeight="32dip"
+            android:paddingTop="9dp"
+            android:text="Video"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/fragment_feed.xml -->

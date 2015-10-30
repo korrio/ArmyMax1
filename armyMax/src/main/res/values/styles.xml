@@ -1,0 +1,116 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="ThemeDialogCustom">
+<item name="android:windowFrame">@null</item>
+<item name="android:windowIsFloating">true</item>
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowContentOverlay">@null</item>
+<item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+<item name="android:windowBackground">@android:color/transparent</item>
+<item name="android:colorBackgroundCacheHint">@null</item>
+</style>
+    
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyTheme.ActionBarStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/MyActionButtonOverflow</item>
+        <item name="android:actionBarTabStyle">@style/Widget.Holo.Tab</item>
+        
+    <item name="android:actionMenuTextColor">@color/white</item>
+    </style>
+
+    <style name="Widget.Holo.Tab" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:height">70dp</item>
+         <item name="android:background">@color/action_bar2</item>
+    </style>
+
+    <style name="MyActionButtonOverflow" parent="android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_setting</item>
+    </style>
+
+    <style name="MyTheme.ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+        <item name="android:background">#0e4800</item>
+    </style>
+
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="ActionBarButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/action_bar</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+    </style>
+
+    <style name="ActionBarButtonWhite" parent="@style/ActionBarButton">
+        <item name="android:textColor">@color/action_bar</item>
+    </style>
+
+    <style name="ActionBarButtonOffWhite" parent="@style/ActionBarButton">
+        <item name="android:textColor">@color/off_white</item>
+    </style>
+
+    <style name="Widget.Button.Toggle" parent="android:Widget">
+        <item name="android:background">@drawable/ic_toggle_bg</item>
+        <item name="android:disabledAlpha">?android:attr/disabledAlpha</item>
+    </style>
+
+    <style name="toggleButton" parent="@android:Theme.Black">
+        <item name="android:buttonStyleToggle">@style/Widget.Button.Toggle</item>
+        <item name="android:textOn"></item>
+        <item name="android:textOff"></item>
+    </style>
+
+    <style name="Item">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">300dp</item>
+    </style>
+
+    <style name="Item.Sticky">
+        <item name="android:background">#eee</item>
+        <item name="android:textColor">#aaa</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="DialtactsDialpadButtonStyle">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="DialtactsDigitsTextAppearance">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textSize">32dp</item>
+        <item name="android:freezesText">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:editable">true</item>
+        <item name="android:cursorVisible">false</item>
+        <item name="android:layout_weight">0</item>
+    </style>
+
+    <style name="DialPadRow">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_weight">0.25</item>
+    </style>
+
+</resources>

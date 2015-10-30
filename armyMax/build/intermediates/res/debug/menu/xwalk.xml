@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+     <!-- Search 
+    <item android:id="@+id/action_search"
+          android:icon="@drawable/ic_action_search"
+          android:title="@string/action_search"
+          android:showAsAction="ifRoom" 
+          android:actionViewClass="android.widget.SearchView"/> 
+    -->
+    <!-- Live -->
+    <item android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_action_refresh"
+          android:title=" REFRESH"
+          android:showAsAction="always|withText"/>     
+
+  
+     
+</menu><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/menu/xwalk.xml -->

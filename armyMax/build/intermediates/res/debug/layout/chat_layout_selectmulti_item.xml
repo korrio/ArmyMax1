@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:descendantFocusability="afterDescendants">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff" >
+
+        <ImageView
+            android:id="@+id/imageThume"
+            android:layout_width="@dimen/widthProfile"
+            android:layout_height="@dimen/hightProfile"
+            android:src="@drawable/ic_launcher" />
+
+        <CheckBox
+            android:id="@+id/checkBokSelect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:focusable="false"
+            android:clickable="false"
+            android:layout_alignParentTop="true"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/textName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imageThume"
+            android:text="Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#252525" />
+
+    </RelativeLayout>
+
+</LinearLayout>
+<!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/chat_layout_selectmulti_item.xml -->

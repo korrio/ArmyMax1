@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="false"
+          android:drawable="@drawable/btn_check_off_holo_dark" />
+    <item android:state_checked="true"
+          android:drawable="@drawable/btn_check_on_holo_dark" />
+</selector>
+<!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/drawable/customcheckbox.xml -->

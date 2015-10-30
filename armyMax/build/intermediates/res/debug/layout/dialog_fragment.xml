@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/dialog_fragment_title"
+        android:id="@+id/textView"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+        android:layout_width="320dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        app:iconPadding="3dp"
+        app:iconSize="40dp"
+        app:iconSrc="@drawable/ic_launcher"
+        app:backgroundPadding="5dp"
+        app:backgroundRadius="3dp"
+        app:backgroundColor="@color/action_bar2"
+        app:progressColor="@color/action_bar"
+        app:progress="10"
+        app:max="100"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/dialog_fragment.xml -->

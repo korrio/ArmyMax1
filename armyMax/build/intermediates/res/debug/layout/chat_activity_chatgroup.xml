@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/action_bar" >
+
+        <ImageView
+            android:id="@+id/iconback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="14dp"
+            android:src="@drawable/ic_group_chat2" />
+
+        <TextView
+            android:id="@+id/textTitleBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/paddingTitleBar"
+            android:text="Group"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="สมาชิก "
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/textMemberCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="14"
+            android:textColor="#fff" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="98dp"
+        android:background="@color/action_bar"
+        android:padding="10dp" >
+
+        <ImageView
+            android:id="@+id/imageProfile"
+            android:layout_width="@dimen/widthProfile"
+            android:layout_height="@dimen/hightProfile"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_user"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/btInvite"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="0.50"
+                    android:text="เชิญเพื่อน"
+                    android:textColor="#fff" />
+
+                <Button
+                    android:id="@+id/btChat"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="0.5"
+                    android:text="เข้าห้อง"
+                    android:textColor="#fff" />
+
+                <Button
+                    android:id="@+id/btLeave"
+                    android:layout_width="0dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="0.50"
+                    android:text="ออกกลุ่ม"
+                    android:textColor="#fff" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listChatGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>
+<!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/chat_activity_chatgroup.xml -->

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/action_bar" >
+
+        <TextView android:id="@+id/textTitleBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:padding="@dimen/paddingTitleBar" android:text="Friends" android:textAppearance="?android:attr/textAppearanceMedium" android:textColor="@color/white" android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/iconback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="14dp"
+            android:src="@drawable/ic_friends" />
+
+    </RelativeLayout>
+
+    <WebView
+        android:id="@+id/webViewChats"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
+<!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/chat_activity.xml -->

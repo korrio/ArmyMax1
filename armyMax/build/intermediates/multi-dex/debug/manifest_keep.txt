@@ -1,0 +1,61 @@
+-keep class com.ame.armymax.app.MainApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.twilio.client.TwilioClientService { <init>(); }
+-keep class com.parse.PushService { <init>(); }
+-keep class com.ame.armymax.service.DialogService { <init>(); }
+-keep class com.ame.armymax.service.IncomingCallReceiver { <init>(); }
+-keep class com.parse.ParseBroadcastReceiver { <init>(); }
+-keep class com.parse.GcmBroadcastReceiver { <init>(); }
+-keep class com.ame.armymax.service.ShowInviteConfPopUp { <init>(); }
+-keep class com.ame.armymax.service.ShowChatPopUp { <init>(); }
+-keep class com.ame.armymax.service.ShowCallPopUp { <init>(); }
+-keep class com.ame.armymax.NotiHistoryActivity { <init>(); }
+-keep class com.ame.armymax.service.SuperDialog { <init>(); }
+-keep class eu.janmuller.android.simplecropimage.CropImage { <init>(); }
+-keep class com.ame.armymax.push.ManagePush { <init>(); }
+-keep class com.ame.armymax.xwalk.XWalkActivity { <init>(); }
+-keep class com.ame.armymax.xwalk.XWalkConferenceActivity { <init>(); }
+-keep class com.ame.armymax.xwalk.XWalkPhoneActivity { <init>(); }
+-keep class com.ame.armymax.xwalk.XWalkChatRoomActivity { <init>(); }
+-keep class com.ame.armymax.player.PlayActivity { <init>(); }
+-keep class com.ame.armymax.MainActivity { <init>(); }
+-keep class com.ame.armymax.EditProfileActivity { <init>(); }
+-keep class com.ame.armymax.PeopleListViewActivity { <init>(); }
+-keep class com.ame.armymax.RouteActivity { <init>(); }
+-keep class com.ame.armymax.SignupActivity { <init>(); }
+-keep class com.ame.armymax.SignupArmyActivity { <init>(); }
+-keep class com.ame.armymax.LoginActivity { <init>(); }
+-keep class com.ame.armymax.LiveStreamingActivity { <init>(); }
+-keep class com.ame.armymax.LiveStableActivity { <init>(); }
+-keep class com.ame.armymax.LiveNowActivity { <init>(); }
+-keep class com.ame.armymax.SettingsActivity { <init>(); }
+-keep class com.ame.armymax.AboutActivity { <init>(); }
+-keep class com.ame.armymax.SplashActivity { <init>(); }
+-keep class com.ame.armymax.LivePostActivity { <init>(); }
+-keep class com.ame.armymax.PeopleGridViewActivity { <init>(); }
+-keep class com.ame.armymax.VideoDetailActivity { <init>(); }
+-keep class com.ame.armymax.basicphone.DialpadActivity { <init>(); }
+-keep class com.ame.armymax.basicphone.PhoneCallActivity { <init>(); }
+-keep class com.ame.armymax.ConferenceActivity { <init>(); }
+-keep class com.ame.armymax.SearchActivity { <init>(); }
+-keep class com.ame.armymax.ProfileActivity { <init>(); }
+-keep class com.ame.armymax.post.PostStatusAcitivity { <init>(); }
+-keep class com.ame.armymax.post.PostPhotoActivity { <init>(); }
+-keep class com.ame.armymax.post.PostVideoActivity { <init>(); }
+-keep class com.ame.armymax.PhotoDetailActivity { <init>(); }
+-keep class com.ame.armymax.SearchResultActivity { <init>(); }
+-keep class com.androidbegin.armymax.chat.AChatActivity { <init>(); }
+-keep class com.androidbegin.armymax.chat.AddFriendActivity { <init>(); }
+-keep class com.androidbegin.armymax.chat.SearchByIDActivity { <init>(); }
+-keep class com.androidbegin.armymax.chat.AProfileActivity { <init>(); }
+-keep class com.androidbegin.armymax.chat.ChatGroupActivity { <init>(); }
+-keep class com.ame.armymax.xwalk.ChromeWebView { <init>(); }
+-keep class com.ame.armymax.upload.UploadActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

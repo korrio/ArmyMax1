@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingBottom="6dip"
+    android:paddingLeft="8dip"
+    android:paddingRight="8dip"
+    android:paddingTop="5dip" >
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/statusName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="Adam Smith"
+                android:textColor="#3B5998"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/statusTextDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="is waiting for love"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/ago"
+            android:layout_width="wrap_content"
+            android:layout_height="20dip"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="2 hours ago"
+            android:textColor="#AAAAAA"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/unreaded"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_sign_up_green_selector"
+        android:padding="5dp"
+        android:text="12"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#fff" />
+
+</LinearLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/sample_noti_item.xml -->

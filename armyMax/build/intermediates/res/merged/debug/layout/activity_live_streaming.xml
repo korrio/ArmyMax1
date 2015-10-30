@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/record_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/recorder_control"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/live_box"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:padding="@dimen/padding_medium"
+        android:text="Live !"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/live_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/preview_live"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/bbuton_info_rounded" />
+
+</RelativeLayout>
+<!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/activity_live_streaming.xml -->

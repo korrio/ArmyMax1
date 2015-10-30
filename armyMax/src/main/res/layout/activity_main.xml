@@ -1,0 +1,62 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- Framelayout to display Fragments -->
+
+    <FrameLayout
+        android:id="@+id/frame_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         />
+
+    <!-- Listview to display slider menu -->
+
+    <ListView
+        android:id="@+id/list_slidermenu"
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@drawable/slidemenu_bg"
+        android:choiceMode="singleChoice"
+        android:divider="@null"
+        android:dividerHeight="0sp"
+        android:listSelector="@drawable/list_selector" />
+
+    <LinearLayout
+        android:id="@+id/button_container"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="0dp"
+        android:visibility="gone" >
+		
+        <Button
+            android:id="@+id/button_recent"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="0.5"
+            android:background="@drawable/facebook_login_button"
+            android:text="Status"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/button_photo"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="0.5"
+            android:background="#006fa9"
+            android:text="Photo"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/button_video"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="0.5"
+            android:background="@drawable/facebook_login_button"
+            android:text="Video"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+</android.support.v4.widget.DrawerLayout>

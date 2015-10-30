@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se.adanware.listviewexample.CheckableRelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+   <!-- We dont want to be able to click the CheckBox -
+        android:clickable="false" added.
+        CheckableRelativeLayout takes care of the toggle when clicking the row -->
+    <CheckBox
+              android:id="@+id/myCheckBox"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:focusable="false"
+              android:clickable="false"
+              android:layout_alignParentLeft="true"
+              android:background="@drawable/customcheckbox_background"
+              android:button="@drawable/customcheckbox"
+            />
+    <TextView
+            android:id="@+id/listview_TeamDescription"
+            android:focusable="false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_toRightOf="@id/myCheckBox"
+            android:layout_centerVertical="true"
+            />
+    <TextView
+            android:id="@+id/listview_TeamWins"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:paddingRight="5dp"
+            android:layout_centerVertical="true"
+            android:focusable="false"
+            android:layout_alignParentRight="true"
+            />
+</se.adanware.listviewexample.CheckableRelativeLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/chat_row_team_layout.xml -->

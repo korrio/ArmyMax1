@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/action_bar" >
+
+        <TextView android:id="@+id/textTitleBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:padding="@dimen/paddingTitleBar" android:text="Add Friends" android:textAppearance="?android:attr/textAppearanceMedium" android:textColor="@color/white" android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/iconback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="14dp"
+            android:src="@drawable/ic_friends" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/action_bar2"
+        android:padding="@dimen/paddingAddfriend"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/textChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="My ID    "
+            android:textColor="#000000"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textMyUserName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:padding="5dp" >
+
+        <EditText
+            android:id="@+id/edtSearchFriend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableRight="@drawable/ic_search"
+            android:ems="10"
+            android:hint="ค้นหา ID เพื่อน" >
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/btSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="ค้นหา" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listViewSearchFrien"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>
+<!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/chat_search_activity.xml -->

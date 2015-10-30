@@ -1,0 +1,609 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:2:1-347:12
+	package
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [ArmyMax1:androidBootstrap:unspecified] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/androidBootstrap/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.akexorcist:RoundCornerProgressBar:1.0.0] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.akexorcist/RoundCornerProgressBar/1.0.0/AndroidManifest.xml:22:5-24:41
+MERGED from [fr.tvbarthel.lib.blurdialogfragment:lib:1.0.0] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/fr.tvbarthel.lib.blurdialogfragment/lib/1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.github.dmytrodanylyk.circular-progress-button/library/1.1.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.nispok:snackbar:2.9.1] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.yalantis:pulltorefresh:1.0.0] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.yalantis/pulltorefresh/1.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:21.0.3] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [org.xwalk:xwalk_core_library:10.39.235.15] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:7:9-38
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:6:9-35
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+		INJECTED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:22:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:26:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:27:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:28:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:30:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:31:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:33:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:35:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:36:5-79
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:36:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:38:5-82
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:38:22-79
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:39:5-94
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:39:22-91
+permission#com.ame.armymax.permission.C2D_MESSAGE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:41:5-43:47
+	android:protectionLevel
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:43:9-44
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:42:9-62
+uses-permission#com.ame.armymax.permission.C2D_MESSAGE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:45:5-78
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:45:22-75
+application
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:47:5-345:19
+MERGED from [ArmyMax1:androidBootstrap:unspecified] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/androidBootstrap/unspecified/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:21.0.3] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [fr.tvbarthel.lib.blurdialogfragment:lib:1.0.0] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/fr.tvbarthel.lib.blurdialogfragment/lib/1.0.0/AndroidManifest.xml:11:5-47
+MERGED from [com.github.dmytrodanylyk.circular-progress-button:library:1.1.3] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.github.dmytrodanylyk.circular-progress-button/library/1.1.3/AndroidManifest.xml:12:5-20
+MERGED from [com.nispok:snackbar:2.9.1] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-v4:21.0.3] /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:51:9-41
+	android:allowBackup
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:49:9-35
+	android:icon
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:50:9-45
+	android:theme
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:52:9-39
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:48:9-44
+service#com.twilio.client.TwilioClientService
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:53:9-55:40
+	android:exported
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:54:13-65
+service#com.parse.PushService
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:56:9-57
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:56:18-54
+service#com.ame.armymax.service.DialogService
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:57:9-58
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:57:18-55
+receiver#com.ame.armymax.service.IncomingCallReceiver
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:59:9-67:20
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:59:19-63
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+com.ame.armymax+com.ame.armymax.PUSH_NOTIFICATION
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:60:13-66:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:61:17-79
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:61:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:62:25-74
+action#com.ame.armymax.PUSH_NOTIFICATION
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:63:17-76
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:63:25-73
+category#com.ame.armymax
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:65:17-60
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:65:27-57
+receiver#com.parse.ParseBroadcastReceiver
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:68:9-74:20
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:68:19-66
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.RECEIVE_BOOT_COMPLETED+android.intent.action.USER_PRESENT
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:69:13-73:29
+action#android.intent.action.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:71:17-87
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:71:25-84
+receiver#com.parse.GcmBroadcastReceiver
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:75:9-84:20
+	android:permission
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:77:13-73
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:76:13-58
+intent-filter#com.ame.armymax+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:78:13-83:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:79:17-81
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:79:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:80:17-86
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:80:25-83
+activity#com.ame.armymax.service.ShowInviteConfPopUp
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:86:9-90:20
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:88:13-45
+	android:theme
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:89:13-67
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:87:13-56
+activity#com.ame.armymax.service.ShowChatPopUp
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:91:9-95:20
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:93:13-45
+	android:theme
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:94:13-67
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:92:13-50
+activity#com.ame.armymax.service.ShowCallPopUp
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:96:9-100:20
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:98:13-45
+	android:theme
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:99:13-67
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:97:13-50
+activity#com.ame.armymax.NotiHistoryActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:101:9-105:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:103:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:102:13-48
+activity#com.ame.armymax.service.SuperDialog
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:106:9-109:20
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:108:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:107:13-48
+activity#eu.janmuller.android.simplecropimage.CropImage
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:110:9-83
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:110:19-80
+activity#com.ame.armymax.push.ManagePush
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:111:9-115:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:113:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:112:13-44
+activity#com.ame.armymax.xwalk.XWalkActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:116:9-120:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:119:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:118:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:117:13-48
+activity#com.ame.armymax.xwalk.XWalkConferenceActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:121:9-125:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:124:13-50
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:123:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:122:13-58
+activity#com.ame.armymax.xwalk.XWalkPhoneActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:127:9-131:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:130:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:129:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:128:13-53
+activity#com.ame.armymax.xwalk.XWalkChatRoomActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:132:9-136:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:134:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:133:13-56
+activity#com.ame.armymax.player.PlayActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:137:9-141:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:140:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:139:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:138:13-48
+activity#com.ame.armymax.MainActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:142:9-146:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:145:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:144:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:143:13-41
+activity#com.ame.armymax.EditProfileActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:147:9-151:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:150:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:149:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:148:13-48
+activity#com.ame.armymax.PeopleListViewActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:152:9-156:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:155:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:154:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:153:13-51
+activity#com.ame.armymax.RouteActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:157:9-161:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:160:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:159:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:158:13-42
+activity#com.ame.armymax.SignupActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:162:9-168:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:166:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:165:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:164:13-74
+	android:theme
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:167:13-71
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:163:13-43
+activity#com.ame.armymax.SignupArmyActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:169:9-174:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:173:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:172:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:171:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:170:13-47
+activity#com.ame.armymax.LoginActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:175:9-185:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:179:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:178:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:177:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:176:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:180:13-184:29
+action#android.intent.action.MAIN
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:181:17-69
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:181:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:183:17-77
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:183:27-74
+activity#com.ame.armymax.LiveStreamingActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:186:9-192:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:190:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:189:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:188:13-74
+	android:theme
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:191:13-71
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:187:13-50
+activity#com.ame.armymax.LiveStableActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:193:9-198:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:197:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:196:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:195:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:194:13-47
+activity#com.ame.armymax.LiveNowActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:199:9-205:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:203:13-50
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:202:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:201:13-74
+	android:theme
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:204:13-71
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:200:13-44
+activity#com.ame.armymax.SettingsActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:206:9-210:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:209:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:208:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:207:13-45
+activity#com.ame.armymax.AboutActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:211:9-215:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:214:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:213:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:212:13-42
+activity#com.ame.armymax.SplashActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:216:9-222:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:220:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:219:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:218:13-74
+	android:theme
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:221:13-71
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:217:13-43
+activity#com.ame.armymax.LivePostActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:223:9-227:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:226:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:225:13-45
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:224:13-45
+activity#com.ame.armymax.PeopleGridViewActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:228:9-233:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:232:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:231:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:230:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:229:13-51
+activity#com.ame.armymax.VideoDetailActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:234:9-239:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:238:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:237:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:236:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:235:13-48
+activity#com.ame.armymax.basicphone.DialpadActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:240:9-245:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:244:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:243:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:242:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:241:13-55
+activity#com.ame.armymax.basicphone.PhoneCallActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:246:9-251:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:250:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:249:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:248:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:247:13-57
+activity#com.ame.armymax.ConferenceActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:252:9-257:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:256:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:255:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:254:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:253:13-47
+activity#com.ame.armymax.SearchActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:258:9-264:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:262:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:261:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:263:13-54
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:260:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:259:13-43
+activity#com.ame.armymax.ProfileActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:265:9-270:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:269:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:268:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:267:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:266:13-44
+activity#com.ame.armymax.post.PostStatusAcitivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:271:9-276:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:275:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:274:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:273:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:272:13-53
+activity#com.ame.armymax.post.PostPhotoActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:277:9-282:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:281:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:280:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:279:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:278:13-51
+activity#com.ame.armymax.post.PostVideoActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:283:9-288:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:287:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:286:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:285:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:284:13-51
+activity#com.ame.armymax.PhotoDetailActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:289:9-294:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:293:13-49
+	android:label
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:292:13-45
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:291:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:290:13-48
+activity#com.ame.armymax.SearchResultActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:296:9-307:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:299:13-49
+	android:configChanges
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:298:13-74
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:297:13-49
+intent-filter#android.intent.action.SEARCH
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:300:13-302:29
+action#android.intent.action.SEARCH
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:301:17-71
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:301:25-68
+meta-data#android.app.searchable
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:304:13-306:54
+	android:resource
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:306:17-51
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:305:17-54
+activity#com.androidbegin.armymax.chat.AChatActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:308:9-311:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:310:13-49
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:309:13-71
+activity#com.androidbegin.armymax.chat.AddFriendActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:312:9-316:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:314:13-49
+	android:theme
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:315:13-71
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:313:13-75
+activity#com.androidbegin.armymax.chat.SearchByIDActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:317:9-320:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:319:13-49
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:318:13-76
+activity#com.androidbegin.armymax.chat.AProfileActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:321:9-324:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:323:13-49
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:322:13-74
+activity#com.androidbegin.armymax.chat.ChatGroupActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:325:9-328:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:327:13-49
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:326:13-75
+activity#com.ame.armymax.xwalk.ChromeWebView
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:330:9-333:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:332:13-49
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:331:13-63
+activity#com.ame.armymax.upload.UploadActivity
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:335:9-338:20
+	android:screenOrientation
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:337:13-49
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:336:13-65
+meta-data#com.crashlytics.ApiKey
+ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:340:9-342:72
+	android:value
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:342:13-69
+	android:name
+		ADDED from /Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/AndroidManifest.xml:341:13-50

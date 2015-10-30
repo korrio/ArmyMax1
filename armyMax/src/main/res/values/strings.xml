@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArmyMax</string>
+    <string name="action_settings">Settings</string>
+    <string name="tablet">false</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Phone Call</item>
+        <item>Conference</item>
+        <item>Live!</item>
+        <item>Everything</item>
+        <item>People</item>
+        <item>Photo</item>
+        <item>Video</item>
+        <item>Notification</item>
+        <item>Chat</item>
+        <item>Settings</item>
+        <item>Logout</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_phone</item>
+        <item>@drawable/ic_conference</item>
+        <item>@drawable/ic_live</item>
+        <item>@drawable/ic_everything</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photo</item>
+        <item>@drawable/ic_video_menu</item>
+        <item>@drawable/ic_notification</item>
+        <item>@drawable/ic_recent_chat</item>
+        <item>@drawable/ic_setting</item>
+        <item>@drawable/ic_logout</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="error">Aror!</string>
+    <string name="action_live">Live!</string>
+    <string name="action_post">Post</string>
+    <string name="action_search">Find</string>
+    <string name="action_location_found">Found</string>
+    <string name="action_refresh">Reload</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Check for Update</string>
+
+    <!-- Setting -->
+    <string name="settings">Settings</string>
+    <string name="sharing">Sharing</string>
+    <string name="shared">Shared</string>
+    <string name="commented">Commented</string>
+    <string name="updated">Updated</string>
+    <string name="liked">Liked</string>
+    <string name="share_app_message">Liking this Facebook app on Android</string>
+    <string name="n_sso">Single Sign On</string>
+    <string name="p_sso_sum">Use device account to sign on</string>
+    <string name="p_location_update">Location update</string>
+    <string name="share">Share</string>
+    <string name="share_app_sum">Share this app</string>
+    <string name="review">Review</string>
+    <string name="review_app_sum">Review this app</string>
+    <string name="logout">Logout</string>
+    <string name="logout_sum">Logout ArmyMax</string>
+    <string name="version">Version</string>
+    <string name="feedback">Feedback</string>
+    <string name="sending">Sending</string>
+    <string name="discuss">Discuss / Feature Request</string>
+    <string name="report_problem">Report Problem</string>
+    <string name="report_problem_sum">Send report to developer</string>
+
+    <!-- Phone Call -->
+    <string name="logging_in">Logging in</string>
+    <string name="outgoing_ok">Outgoing calls allowed</string>
+    <string name="incoming_ok">Incoming calls allowed</string>
+    <string name="no_outgoing_capability">Unable to make outgoing calls with current capabilities</string>
+    <string name="no_incoming_capability">Unable to make incoming calls with current capabilities</string>
+    <string name="login_error_fmt">Error logging in: %s</string>
+    <string name="login_error_unknown">Unknown error logging in</string>
+    <string name="attempting_to_connect">Attempting to connect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnect_attempt">Attempting to disconnect</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="couldnt_establish_outgoing">Couldn\'t establish outgoing call</string>
+    <string name="couldnt_establish_outgoing_fmt">Couldn\'t establish outgoing call: %s</string>
+    <string name="device_listening">Device is listening for incoming connections</string>
+    <string name="device_not_listening">Device is no longer listening for incoming connections</string>
+    <string name="device_listening_error_fmt">Device is no longer listening for incoming connections due to error: %s</string>
+    <string name="got_incoming">Received incoming connection</string>
+    <string name="incoming_disconnected">Pending incoming connection disconnected</string>
+    <string name="connection_error_fmt">Connection error: %s</string>
+    <string name="connection_error">Connection error</string>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="incoming_call_message">You have a new incoming call. Answer it?</string>
+    <string name="answer">Answer</string>
+    <string name="ignore">Ignore</string>
+    <string name="speaker_off">Speakerphone off</string>
+    <string name="speaker_on">Speakerphone on</string>
+
+    <!-- Conference -->
+    <string name="list_conference">กำลังโหลดรายการห้องประชุม</string>
+    <string name="create_conference">กำลังสร้างห้องประชุม</string>
+    <string name="req_conference">กำลังร้องขอห้องประชุม</string>
+    <string name="req_conference_error">การร้องขอห้องประชุมเกิดปัญหา</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

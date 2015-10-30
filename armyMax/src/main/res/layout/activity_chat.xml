@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gray_texture"
+    android:orientation="vertical"
+    android:padding="0dp"
+    tools:context=".ChatTabs" >
+
+    <org.xwalk.core.XWalkView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/conference"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+
+    </org.xwalk.core.XWalkView>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="กรุณากดปุ่ม JOIN เพื่อเริ่มการสนทนา"
+        android:id="@+id/textView4"
+        android:gravity="center"
+        android:padding="12dp"
+        android:background="#fff" />
+
+    <Button
+        android:id="@+id/button_end_call"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="#f00"
+        android:drawableTop="@drawable/ic_end_call"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp"
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:textSize="1sp" />
+
+</LinearLayout>

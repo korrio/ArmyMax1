@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/res/values-v11/values.xml -->
+    <eat-comment/>
+    <bool name="sb__is_swipeable">true</bool>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+		<item name="android:background">#312783</item>
+	</style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/androidBootstrap/unspecified/res/values-v11/values-v11.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="Theme.SimpleFacebook" parent="android:Theme.Holo">
+		
+		<item name="android:backgroundDimEnabled">false</item>
+		<item name="android:actionBarStyle">@style/ActionBar</item>
+		
+	</style>
+</resources>

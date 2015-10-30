@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+     <!-- Search 
+    <item android:id="@+id/action_search"
+          android:icon="@drawable/ic_action_search"
+          android:title="@string/action_search"
+          android:showAsAction="ifRoom" 
+          android:actionViewClass="android.widget.SearchView"/> 
+    -->
+    <!-- Live -->
+    <item android:id="@+id/action_live"
+          android:icon="@drawable/ic_action_live"
+          android:title="  LIVE !"
+          android:showAsAction="always|withText"/>     
+
+    
+    <!-- Settings -->
+    <item android:id="@+id/action_setting"
+          android:icon="@drawable/ic_setting"
+          android:title="@string/action_settings"
+          android:showAsAction="never"/>
+     
+    <!-- Logout -->
+    <item android:id="@+id/action_logout"
+          android:icon="@drawable/ic_logout"
+          android:title="@string/logout"
+          android:showAsAction="never" />
+</menu><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/menu/main.xml -->

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gray_texture"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/btAddFriend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#252525"
+            android:drawableTop="@drawable/ic_add_friend"
+            android:padding="20dp"
+            android:text="เพิ่มเพื่อน"
+            android:textColor="#fff"
+            android:textSize="24sp" />
+        
+        <View android:layout_height="fill_parent"
+    android:layout_width="2px"
+    android:background="#90909090"/>
+
+        <Button
+            android:id="@+id/btProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#252525"
+            android:drawableTop="@drawable/ic_friends"
+            android:padding="20dp"
+            android:text="ประวัติส่วนตัว"
+            android:textColor="#fff"
+            android:textSize="24sp" />
+        
+        <View android:layout_height="fill_parent"
+    android:layout_width="2px"
+    android:background="#90909090"/>
+
+        <Button
+            android:id="@+id/btGroupChat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#252525"
+            android:drawableTop="@drawable/ic_group_chat"
+            android:padding="20dp"
+            android:text="สนทนากลุ่ม"
+            android:textColor="#fff"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/avatar_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginTop="17dp"
+        android:src="@drawable/ic_launcher_web" />
+
+</RelativeLayout>

@@ -1,0 +1,361 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From AndroidBootstrap:
+* build.gradle
+* proguard-project.txt
+From ArmyMax:
+* .DS_Store
+* crashlytics.properties
+* ic_launcher_web.png
+* kit-libs/
+* kit-libs/com-crashlytics-sdk-android_answers_2/
+* kit-libs/com-crashlytics-sdk-android_answers_2/.classpath
+* kit-libs/com-crashlytics-sdk-android_answers_2/.project
+* kit-libs/com-crashlytics-sdk-android_answers_2/.settings/
+* kit-libs/com-crashlytics-sdk-android_answers_2/.settings/org.eclipse.jdt.core.prefs
+* kit-libs/com-crashlytics-sdk-android_answers_2/AndroidManifest.xml
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/AndroidManifest.xml
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/classes/
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/classes/com/
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/classes/com/crashlytics/
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/classes/com/crashlytics/android/
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/classes/com/crashlytics/android/answers/
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/classes/com/crashlytics/android/answers/BuildConfig.class
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/com-crashlytics-sdk-android_answers_2.jar
+* kit-libs/com-crashlytics-sdk-android_answers_2/bin/jarlist.cache
+* kit-libs/com-crashlytics-sdk-android_answers_2/build.xml
+* kit-libs/com-crashlytics-sdk-android_answers_2/gen/
+* kit-libs/com-crashlytics-sdk-android_answers_2/gen/com/
+* kit-libs/com-crashlytics-sdk-android_answers_2/gen/com/crashlytics/
+* kit-libs/com-crashlytics-sdk-android_answers_2/gen/com/crashlytics/android/
+* kit-libs/com-crashlytics-sdk-android_answers_2/gen/com/crashlytics/android/answers/
+* kit-libs/com-crashlytics-sdk-android_answers_2/gen/com/crashlytics/android/answers/BuildConfig.java
+* kit-libs/com-crashlytics-sdk-android_answers_2/kit-version.properties
+* kit-libs/com-crashlytics-sdk-android_answers_2/libs/
+* kit-libs/com-crashlytics-sdk-android_answers_2/libs/com-crashlytics-sdk-android_answers-classes.jar
+* kit-libs/com-crashlytics-sdk-android_answers_2/project.properties
+* kit-libs/com-crashlytics-sdk-android_beta_2/
+* kit-libs/com-crashlytics-sdk-android_beta_2/.classpath
+* kit-libs/com-crashlytics-sdk-android_beta_2/.project
+* kit-libs/com-crashlytics-sdk-android_beta_2/.settings/
+* kit-libs/com-crashlytics-sdk-android_beta_2/.settings/org.eclipse.jdt.core.prefs
+* kit-libs/com-crashlytics-sdk-android_beta_2/AndroidManifest.xml
+* kit-libs/com-crashlytics-sdk-android_beta_2/bin/
+* kit-libs/com-crashlytics-sdk-android_beta_2/bin/AndroidManifest.xml
+* kit-libs/com-crashlytics-sdk-android_beta_2/bin/classes/
+* kit-libs/com-crashlytics-sdk-android_beta_2/bin/classes/com/
+* kit-libs/com-crashlytics-sdk-android_beta_2/bin/classes/com/crashlytics/
+* kit-libs/com-crashlytics-sdk-android_beta_2/bin/classes/com/crashlytics/android/
+* kit-libs/com-crashlytics-sdk-android_beta_2/bin/classes/com/crashlytics/android/beta/
+* kit-libs/com-crashlytics-sdk-android_beta_2/bin/classes/com/crashlytics/android/beta/BuildConfig.class
+* kit-libs/com-crashlytics-sdk-android_beta_2/bin/com-crashlytics-sdk-android_beta_2.jar
+* kit-libs/com-crashlytics-sdk-android_beta_2/build.xml
+* kit-libs/com-crashlytics-sdk-android_beta_2/gen/
+* kit-libs/com-crashlytics-sdk-android_beta_2/gen/com/
+* kit-libs/com-crashlytics-sdk-android_beta_2/gen/com/crashlytics/
+* kit-libs/com-crashlytics-sdk-android_beta_2/gen/com/crashlytics/android/
+* kit-libs/com-crashlytics-sdk-android_beta_2/gen/com/crashlytics/android/beta/
+* kit-libs/com-crashlytics-sdk-android_beta_2/gen/com/crashlytics/android/beta/BuildConfig.java
+* kit-libs/com-crashlytics-sdk-android_beta_2/kit-version.properties
+* kit-libs/com-crashlytics-sdk-android_beta_2/libs/
+* kit-libs/com-crashlytics-sdk-android_beta_2/libs/com-crashlytics-sdk-android_beta-classes.jar
+* kit-libs/com-crashlytics-sdk-android_beta_2/project.properties
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/.classpath
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/.project
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/.settings/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/.settings/org.eclipse.jdt.core.prefs
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/AndroidManifest.xml
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/bin/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/bin/AndroidManifest.xml
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/bin/classes/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/bin/classes/com/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/bin/classes/com/crashlytics/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/bin/classes/com/crashlytics/android/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/bin/classes/com/crashlytics/android/BuildConfig.class
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/bin/com-crashlytics-sdk-android_crashlytics_2.jar
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/bin/jarlist.cache
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/build.xml
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/gen/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/gen/com/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/gen/com/crashlytics/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/gen/com/crashlytics/android/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/gen/com/crashlytics/android/BuildConfig.java
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/kit-version.properties
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/libs/
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/libs/com-crashlytics-sdk-android_crashlytics-classes.jar
+* kit-libs/com-crashlytics-sdk-android_crashlytics_2/project.properties
+* kit-libs/io-fabric-sdk-android_fabric_2/
+* kit-libs/io-fabric-sdk-android_fabric_2/.classpath
+* kit-libs/io-fabric-sdk-android_fabric_2/.project
+* kit-libs/io-fabric-sdk-android_fabric_2/.settings/
+* kit-libs/io-fabric-sdk-android_fabric_2/.settings/org.eclipse.jdt.core.prefs
+* kit-libs/io-fabric-sdk-android_fabric_2/AndroidManifest.xml
+* kit-libs/io-fabric-sdk-android_fabric_2/bin/
+* kit-libs/io-fabric-sdk-android_fabric_2/bin/AndroidManifest.xml
+* kit-libs/io-fabric-sdk-android_fabric_2/bin/classes/
+* kit-libs/io-fabric-sdk-android_fabric_2/bin/classes/io/
+* kit-libs/io-fabric-sdk-android_fabric_2/bin/classes/io/fabric/
+* kit-libs/io-fabric-sdk-android_fabric_2/bin/classes/io/fabric/sdk/
+* kit-libs/io-fabric-sdk-android_fabric_2/bin/classes/io/fabric/sdk/android/
+* kit-libs/io-fabric-sdk-android_fabric_2/bin/classes/io/fabric/sdk/android/BuildConfig.class
+* kit-libs/io-fabric-sdk-android_fabric_2/bin/io-fabric-sdk-android_fabric_2.jar
+* kit-libs/io-fabric-sdk-android_fabric_2/build.xml
+* kit-libs/io-fabric-sdk-android_fabric_2/gen/
+* kit-libs/io-fabric-sdk-android_fabric_2/gen/io/
+* kit-libs/io-fabric-sdk-android_fabric_2/gen/io/fabric/
+* kit-libs/io-fabric-sdk-android_fabric_2/gen/io/fabric/sdk/
+* kit-libs/io-fabric-sdk-android_fabric_2/gen/io/fabric/sdk/android/
+* kit-libs/io-fabric-sdk-android_fabric_2/gen/io/fabric/sdk/android/BuildConfig.java
+* kit-libs/io-fabric-sdk-android_fabric_2/kit-version.properties
+* kit-libs/io-fabric-sdk-android_fabric_2/libs/
+* kit-libs/io-fabric-sdk-android_fabric_2/libs/io-fabric-sdk-android_fabric-classes.jar
+* kit-libs/io-fabric-sdk-android_fabric_2/project.properties
+* kits.properties
+* proguard-project.txt
+* to-dos
+From Lib-ZXing:
+* ant.properties
+* build.xml
+From Lib-crop-image:
+* ant.properties
+* build.gradle
+* build.xml
+* proguard-project.txt
+From LoadMoreListView:
+* build.gradle
+* proguard.cfg
+From com-crashlytics-sdk-android_answers_2:
+* build.xml
+* kit-version.properties
+From com-crashlytics-sdk-android_beta_2:
+* build.xml
+* kit-version.properties
+From com-crashlytics-sdk-android_crashlytics_2:
+* build.xml
+* kit-version.properties
+From crosswalk-webview-6.35.131.13-arm:
+* ant.properties
+* build.xml
+From io-fabric-sdk-android_fabric_2:
+* build.xml
+* kit-version.properties
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In AndroidBootstrap:
+* AndroidManifest.xml => androidBootstrap/src/main/AndroidManifest.xml
+* assets/ => androidBootstrap/src/main/assets/
+* lint.xml => androidBootstrap/lint.xml
+* res/ => androidBootstrap/src/main/res/
+* src/ => androidBootstrap/src/main/java/
+In Lib-ZXing:
+* AndroidManifest.xml => libZXing/src/main/AndroidManifest.xml
+* assets/ => libZXing/src/main/assets/
+* libs/core.jar => libZXing/libs/core.jar
+* lint.xml => libZXing/lint.xml
+* proguard.cfg => libZXing/proguard.cfg
+* res/ => libZXing/src/main/res/
+* src/ => libZXing/src/main/java/
+In Lib-crop-image:
+* AndroidManifest.xml => libcropimage/src/main/AndroidManifest.xml
+* assets/ => libcropimage/src/main/assets/
+* res/ => libcropimage/src/main/res/
+* src/ => libcropimage/src/main/java/
+In LoadMoreListView:
+* AndroidManifest.xml => loadMoreListView/src/main/AndroidManifest.xml
+* assets/ => loadMoreListView/src/main/assets/
+* res/ => loadMoreListView/src/main/res/
+* src/ => loadMoreListView/src/main/java/
+In com-crashlytics-sdk-android_answers_2:
+* AndroidManifest.xml => comcrashlyticssdkandroid_answers_2/src/main/AndroidManifest.xml
+* assets/ => comcrashlyticssdkandroid_answers_2/src/main/assets/
+* libs/com-crashlytics-sdk-android_answers-classes.jar => comcrashlyticssdkandroid_answers_2/libs/com-crashlytics-sdk-android_answers-classes.jar
+* res/ => comcrashlyticssdkandroid_answers_2/src/main/res/
+* src/ => comcrashlyticssdkandroid_answers_2/src/main/java/
+In crosswalk-webview-6.35.131.13-arm:
+* AndroidManifest.xml => crosswalkwebview63513113arm/src/main/AndroidManifest.xml
+* assets/ => crosswalkwebview63513113arm/src/main/assets/
+* libs/armeabi-v7a/libxwalkcore.so => crosswalkwebview63513113arm/src/main/jniLibs/armeabi-v7a/libxwalkcore.so
+* libs/xwalk_core_library_java.jar => crosswalkwebview63513113arm/libs/xwalk_core_library_java.jar
+* res/ => crosswalkwebview63513113arm/src/main/res/
+* src/ => crosswalkwebview63513113arm/src/main/java/
+In io-fabric-sdk-android_fabric_2:
+* AndroidManifest.xml => iofabricsdkandroid_fabric_2/src/main/AndroidManifest.xml
+* assets/ => iofabricsdkandroid_fabric_2/src/main/assets/
+* libs/io-fabric-sdk-android_fabric-classes.jar => iofabricsdkandroid_fabric_2/libs/io-fabric-sdk-android_fabric-classes.jar
+* res/ => iofabricsdkandroid_fabric_2/src/main/res/
+* src/ => iofabricsdkandroid_fabric_2/src/main/java/
+In com-crashlytics-sdk-android_beta_2:
+* AndroidManifest.xml => comcrashlyticssdkandroid_beta_2/src/main/AndroidManifest.xml
+* assets/ => comcrashlyticssdkandroid_beta_2/src/main/assets/
+* libs/com-crashlytics-sdk-android_beta-classes.jar => comcrashlyticssdkandroid_beta_2/libs/com-crashlytics-sdk-android_beta-classes.jar
+* res/ => comcrashlyticssdkandroid_beta_2/src/main/res/
+* src/ => comcrashlyticssdkandroid_beta_2/src/main/java/
+In com-crashlytics-sdk-android_crashlytics_2:
+* AndroidManifest.xml => comcrashlyticssdkandroid_crashlytics_2/src/main/AndroidManifest.xml
+* assets/ => comcrashlyticssdkandroid_crashlytics_2/src/main/assets/
+* libs/com-crashlytics-sdk-android_crashlytics-classes.jar => comcrashlyticssdkandroid_crashlytics_2/libs/com-crashlytics-sdk-android_crashlytics-classes.jar
+* res/ => comcrashlyticssdkandroid_crashlytics_2/src/main/res/
+* src/ => comcrashlyticssdkandroid_crashlytics_2/src/main/java/
+In ArmyMax:
+* AndroidManifest.xml => armyMax/src/main/AndroidManifest.xml
+* assets/ => armyMax/src/main/assets/
+* libs/Parse-1.5.1.jar => armyMax/libs/Parse-1.5.1.jar
+* libs/YouTubeAndroidPlayerApi.jar => armyMax/libs/YouTubeAndroidPlayerApi.jar
+* libs/armeabi-v7a/libavcodec.so => armyMax/src/main/jniLibs/armeabi-v7a/libavcodec.so
+* libs/armeabi-v7a/libavdevice.so => armyMax/src/main/jniLibs/armeabi-v7a/libavdevice.so
+* libs/armeabi-v7a/libavfilter.so => armyMax/src/main/jniLibs/armeabi-v7a/libavfilter.so
+* libs/armeabi-v7a/libavformat.so => armyMax/src/main/jniLibs/armeabi-v7a/libavformat.so
+* libs/armeabi-v7a/libavutil.so => armyMax/src/main/jniLibs/armeabi-v7a/libavutil.so
+* libs/armeabi-v7a/libjniARToolKitPlus.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniARToolKitPlus.so
+* libs/armeabi-v7a/libjniavcodec.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniavcodec.so
+* libs/armeabi-v7a/libjniavdevice.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniavdevice.so
+* libs/armeabi-v7a/libjniavfilter.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniavfilter.so
+* libs/armeabi-v7a/libjniavformat.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniavformat.so
+* libs/armeabi-v7a/libjniavutil.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniavutil.so
+* libs/armeabi-v7a/libjnicvkernels.so => armyMax/src/main/jniLibs/armeabi-v7a/libjnicvkernels.so
+* libs/armeabi-v7a/libjniopencv_calib3d.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_calib3d.so
+* libs/armeabi-v7a/libjniopencv_contrib.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_contrib.so
+* libs/armeabi-v7a/libjniopencv_core.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_core.so
+* libs/armeabi-v7a/libjniopencv_features2d.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_features2d.so
+* libs/armeabi-v7a/libjniopencv_flann.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_flann.so
+* libs/armeabi-v7a/libjniopencv_highgui.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_highgui.so
+* libs/armeabi-v7a/libjniopencv_imgproc.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_imgproc.so
+* libs/armeabi-v7a/libjniopencv_legacy.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_legacy.so
+* libs/armeabi-v7a/libjniopencv_ml.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_ml.so
+* libs/armeabi-v7a/libjniopencv_nonfree.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_nonfree.so
+* libs/armeabi-v7a/libjniopencv_objdetect.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_objdetect.so
+* libs/armeabi-v7a/libjniopencv_photo.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_photo.so
+* libs/armeabi-v7a/libjniopencv_stitching.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_stitching.so
+* libs/armeabi-v7a/libjniopencv_video.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_video.so
+* libs/armeabi-v7a/libjniopencv_videostab.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniopencv_videostab.so
+* libs/armeabi-v7a/libjnipostproc.so => armyMax/src/main/jniLibs/armeabi-v7a/libjnipostproc.so
+* libs/armeabi-v7a/libjniswresample.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniswresample.so
+* libs/armeabi-v7a/libjniswscale.so => armyMax/src/main/jniLibs/armeabi-v7a/libjniswscale.so
+* libs/armeabi-v7a/libmsc.so => armyMax/src/main/jniLibs/armeabi-v7a/libmsc.so
+* libs/armeabi-v7a/libopencv_calib3d.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_calib3d.so
+* libs/armeabi-v7a/libopencv_contrib.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_contrib.so
+* libs/armeabi-v7a/libopencv_core.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_core.so
+* libs/armeabi-v7a/libopencv_features2d.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_features2d.so
+* libs/armeabi-v7a/libopencv_flann.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_flann.so
+* libs/armeabi-v7a/libopencv_highgui.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_highgui.so
+* libs/armeabi-v7a/libopencv_imgproc.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_imgproc.so
+* libs/armeabi-v7a/libopencv_info.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_info.so
+* libs/armeabi-v7a/libopencv_legacy.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_legacy.so
+* libs/armeabi-v7a/libopencv_ml.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_ml.so
+* libs/armeabi-v7a/libopencv_nonfree.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_nonfree.so
+* libs/armeabi-v7a/libopencv_objdetect.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_objdetect.so
+* libs/armeabi-v7a/libopencv_photo.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_photo.so
+* libs/armeabi-v7a/libopencv_stitching.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_stitching.so
+* libs/armeabi-v7a/libopencv_ts.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_ts.so
+* libs/armeabi-v7a/libopencv_video.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_video.so
+* libs/armeabi-v7a/libopencv_videostab.so => armyMax/src/main/jniLibs/armeabi-v7a/libopencv_videostab.so
+* libs/armeabi-v7a/libpostproc.so => armyMax/src/main/jniLibs/armeabi-v7a/libpostproc.so
+* libs/armeabi-v7a/librtmpPublisher.so => armyMax/src/main/jniLibs/armeabi-v7a/librtmpPublisher.so
+* libs/armeabi-v7a/libswresample.so => armyMax/src/main/jniLibs/armeabi-v7a/libswresample.so
+* libs/armeabi-v7a/libswscale.so => armyMax/src/main/jniLibs/armeabi-v7a/libswscale.so
+* libs/armeabi-v7a/libtbb.so => armyMax/src/main/jniLibs/armeabi-v7a/libtbb.so
+* libs/armeabi-v7a/libtwilio-native.so => armyMax/src/main/jniLibs/armeabi-v7a/libtwilio-native.so
+* libs/armeabi/libavcodec.so => armyMax/src/main/jniLibs/armeabi/libavcodec.so
+* libs/armeabi/libavdevice.so => armyMax/src/main/jniLibs/armeabi/libavdevice.so
+* libs/armeabi/libavfilter.so => armyMax/src/main/jniLibs/armeabi/libavfilter.so
+* libs/armeabi/libavformat.so => armyMax/src/main/jniLibs/armeabi/libavformat.so
+* libs/armeabi/libavutil.so => armyMax/src/main/jniLibs/armeabi/libavutil.so
+* libs/armeabi/libjniARToolKitPlus.so => armyMax/src/main/jniLibs/armeabi/libjniARToolKitPlus.so
+* libs/armeabi/libjniavcodec.so => armyMax/src/main/jniLibs/armeabi/libjniavcodec.so
+* libs/armeabi/libjniavdevice.so => armyMax/src/main/jniLibs/armeabi/libjniavdevice.so
+* libs/armeabi/libjniavfilter.so => armyMax/src/main/jniLibs/armeabi/libjniavfilter.so
+* libs/armeabi/libjniavformat.so => armyMax/src/main/jniLibs/armeabi/libjniavformat.so
+* libs/armeabi/libjniavutil.so => armyMax/src/main/jniLibs/armeabi/libjniavutil.so
+* libs/armeabi/libjnicvkernels.so => armyMax/src/main/jniLibs/armeabi/libjnicvkernels.so
+* libs/armeabi/libjniopencv_calib3d.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_calib3d.so
+* libs/armeabi/libjniopencv_contrib.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_contrib.so
+* libs/armeabi/libjniopencv_core.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_core.so
+* libs/armeabi/libjniopencv_features2d.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_features2d.so
+* libs/armeabi/libjniopencv_flann.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_flann.so
+* libs/armeabi/libjniopencv_highgui.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_highgui.so
+* libs/armeabi/libjniopencv_imgproc.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_imgproc.so
+* libs/armeabi/libjniopencv_legacy.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_legacy.so
+* libs/armeabi/libjniopencv_ml.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_ml.so
+* libs/armeabi/libjniopencv_nonfree.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_nonfree.so
+* libs/armeabi/libjniopencv_objdetect.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_objdetect.so
+* libs/armeabi/libjniopencv_photo.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_photo.so
+* libs/armeabi/libjniopencv_stitching.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_stitching.so
+* libs/armeabi/libjniopencv_video.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_video.so
+* libs/armeabi/libjniopencv_videostab.so => armyMax/src/main/jniLibs/armeabi/libjniopencv_videostab.so
+* libs/armeabi/libjnipostproc.so => armyMax/src/main/jniLibs/armeabi/libjnipostproc.so
+* libs/armeabi/libjniswresample.so => armyMax/src/main/jniLibs/armeabi/libjniswresample.so
+* libs/armeabi/libjniswscale.so => armyMax/src/main/jniLibs/armeabi/libjniswscale.so
+* libs/armeabi/libmsc.so => armyMax/src/main/jniLibs/armeabi/libmsc.so
+* libs/armeabi/libopencv_calib3d.so => armyMax/src/main/jniLibs/armeabi/libopencv_calib3d.so
+* libs/armeabi/libopencv_contrib.so => armyMax/src/main/jniLibs/armeabi/libopencv_contrib.so
+* libs/armeabi/libopencv_core.so => armyMax/src/main/jniLibs/armeabi/libopencv_core.so
+* libs/armeabi/libopencv_features2d.so => armyMax/src/main/jniLibs/armeabi/libopencv_features2d.so
+* libs/armeabi/libopencv_flann.so => armyMax/src/main/jniLibs/armeabi/libopencv_flann.so
+* libs/armeabi/libopencv_highgui.so => armyMax/src/main/jniLibs/armeabi/libopencv_highgui.so
+* libs/armeabi/libopencv_imgproc.so => armyMax/src/main/jniLibs/armeabi/libopencv_imgproc.so
+* libs/armeabi/libopencv_info.so => armyMax/src/main/jniLibs/armeabi/libopencv_info.so
+* libs/armeabi/libopencv_legacy.so => armyMax/src/main/jniLibs/armeabi/libopencv_legacy.so
+* libs/armeabi/libopencv_ml.so => armyMax/src/main/jniLibs/armeabi/libopencv_ml.so
+* libs/armeabi/libopencv_nonfree.so => armyMax/src/main/jniLibs/armeabi/libopencv_nonfree.so
+* libs/armeabi/libopencv_objdetect.so => armyMax/src/main/jniLibs/armeabi/libopencv_objdetect.so
+* libs/armeabi/libopencv_photo.so => armyMax/src/main/jniLibs/armeabi/libopencv_photo.so
+* libs/armeabi/libopencv_stitching.so => armyMax/src/main/jniLibs/armeabi/libopencv_stitching.so
+* libs/armeabi/libopencv_ts.so => armyMax/src/main/jniLibs/armeabi/libopencv_ts.so
+* libs/armeabi/libopencv_video.so => armyMax/src/main/jniLibs/armeabi/libopencv_video.so
+* libs/armeabi/libopencv_videostab.so => armyMax/src/main/jniLibs/armeabi/libopencv_videostab.so
+* libs/armeabi/libpostproc.so => armyMax/src/main/jniLibs/armeabi/libpostproc.so
+* libs/armeabi/librtmpPublisher.so => armyMax/src/main/jniLibs/armeabi/librtmpPublisher.so
+* libs/armeabi/libswresample.so => armyMax/src/main/jniLibs/armeabi/libswresample.so
+* libs/armeabi/libswscale.so => armyMax/src/main/jniLibs/armeabi/libswscale.so
+* libs/armeabi/libtbb.so => armyMax/src/main/jniLibs/armeabi/libtbb.so
+* libs/armeabi/libtwilio-native.so => armyMax/src/main/jniLibs/armeabi/libtwilio-native.so
+* libs/flyplayerlib.jar => armyMax/libs/flyplayerlib.jar
+* libs/javacpp.jar => armyMax/libs/javacpp.jar
+* libs/javacv.jar => armyMax/libs/javacv.jar
+* libs/mips/libtwilio-native.so => armyMax/src/main/jniLibs/mips/libtwilio-native.so
+* libs/picasso-2.2.0.jar => armyMax/libs/picasso-2.2.0.jar
+* libs/twilioclient-android-1.1.3-ad48713.jar => armyMax/libs/twilioclient-android-1.1.3-ad48713.jar
+* libs/x86/libtwilio-native.so => armyMax/src/main/jniLibs/x86/libtwilio-native.so
+* lint.xml => armyMax/lint.xml
+* res/ => armyMax/src/main/res/
+* src/ => armyMax/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

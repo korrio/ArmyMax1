@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bootstrap="http://schemas.android.com/apk/res-auto"
+    xmlns:bootstrapbutton="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal" >
+
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+        android:id="@+id/room_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center|left"
+        android:hint="Search"
+        bootstrapbutton:be_roundedCorners="true" />
+
+    <ImageView
+        android:id="@+id/tbSidebar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/avatar_placeholder"
+        android:text="tb" >
+    </ImageView>
+    <!--
+    <com.beardedhen.androidbootstrap.BootstrapCircleThumbnail
+     android:id="@+id/tbSidebar"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignParentTop="true"
+     android:layout_centerHorizontal="true"
+     android:layout_margin="10dp"
+     android:text="tb"
+     bootstrap:bct_image="@drawable/avatar"
+     bootstrap:bct_size="large" >
+
+    </com.beardedhen.androidbootstrap.BootstrapCircleThumbnail>
+    -->
+
+    <TextView
+        android:id="@+id/header_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tbSidebar"
+        android:layout_centerHorizontal="true"
+        android:text="Royal Thai Army"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#36b8ea"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/edit_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:text="Edit profile"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#fff" />
+
+</RelativeLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/drawer_list_header.xml -->

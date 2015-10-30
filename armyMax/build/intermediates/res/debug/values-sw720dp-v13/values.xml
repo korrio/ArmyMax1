@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/fr.tvbarthel.lib.blurdialogfragment/lib/1.0.0/res/values-sw720dp-v13/values.xml -->
+    <eat-comment/>
+    <bool name="blur_dialog_has_bottom_navigation_bar">true</bool>
+</resources>

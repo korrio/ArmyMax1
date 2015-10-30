@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArmyMax1.iml" filepath="$PROJECT_DIR$/ArmyMax1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidBootstrap/androidBootstrap.iml" filepath="$PROJECT_DIR$/androidBootstrap/androidBootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apprtc/apprtc.iml" filepath="$PROJECT_DIR$/apprtc/apprtc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/armyMax/armyMax.iml" filepath="$PROJECT_DIR$/armyMax/armyMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crosswalkwebview63513113arm/crosswalkwebview63513113arm.iml" filepath="$PROJECT_DIR$/crosswalkwebview63513113arm/crosswalkwebview63513113arm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iofabricsdkandroid_fabric_2/iofabricsdkandroid_fabric_2.iml" filepath="$PROJECT_DIR$/iofabricsdkandroid_fabric_2/iofabricsdkandroid_fabric_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libcropimage/libcropimage.iml" filepath="$PROJECT_DIR$/libcropimage/libcropimage.iml" />
+    </modules>
+  </component>
+</project>

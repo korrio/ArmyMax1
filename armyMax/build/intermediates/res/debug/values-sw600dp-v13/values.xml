@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/fr.tvbarthel.lib.blurdialogfragment/lib/1.0.0/res/values-sw600dp-v13/values.xml -->
+    <eat-comment/>
+    <bool name="blur_dialog_has_bottom_navigation_bar">true</bool>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/res/values-sw600dp-v13/values.xml -->
+    <eat-comment/>
+    <bool name="sb__is_phone">false</bool>
+    <dimen name="sb__bg_corner_radius">2dp</dimen>
+    <dimen name="sb__max_width">568dp</dimen>
+    <dimen name="sb__min_width">288dp</dimen>
+    <dimen name="sb__offset">24dp</dimen>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values-sw600dp/refs.xml -->
+    <eat-comment/>
+    <item name="fragment_story" type="layout">@layout/fragment_story_grid</item>
+</resources>

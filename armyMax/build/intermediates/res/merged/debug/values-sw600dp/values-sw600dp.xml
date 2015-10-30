@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/values-sw600dp/refs.xml -->
+    <eat-comment/>
+    <item name="fragment_story" type="layout">@layout/fragment_story_grid</item>
+</resources>

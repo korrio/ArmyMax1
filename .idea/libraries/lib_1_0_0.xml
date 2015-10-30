@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/armyMax/build/intermediates/exploded-aar/fr.tvbarthel.lib.blurdialogfragment/lib/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/armyMax/build/intermediates/exploded-aar/fr.tvbarthel.lib.blurdialogfragment/lib/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

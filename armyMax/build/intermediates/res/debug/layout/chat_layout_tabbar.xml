@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/action_bar" >
+
+        <LinearLayout
+            android:id="@+id/layoutFriends"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <ImageView
+                android:id="@+id/friendAvatar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_friends" />
+
+            <TextView
+                android:id="@+id/textFriends"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="เพื่อน"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="2px"
+            android:layout_height="fill_parent"
+            android:background="#90909090" />
+
+        <LinearLayout
+            android:id="@+id/layoutChats"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:gravity="center_horizontal" >
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_chats" />
+
+                <TextView
+                    android:id="@+id/chatBadge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/imageView2"
+                    android:background="#f00"
+                    android:padding="2dp"
+                    android:text="12"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#fff" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/textChats"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="สนทนา"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="2px"
+            android:layout_height="fill_parent"
+            android:background="#90909090" />
+
+        <LinearLayout
+            android:id="@+id/layoutTimeline"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/my_qr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_timeline" />
+
+            <TextView
+                android:id="@+id/textTimeline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ไทม์ไลน์"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="2px"
+            android:layout_height="fill_parent"
+            android:background="#90909090" />
+
+        <LinearLayout
+            android:id="@+id/layoutMore"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_more" />
+
+            <TextView
+                android:id="@+id/textMore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="อื่นๆ"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/chat_layout_tabbar.xml -->

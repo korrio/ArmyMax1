@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginRight="5dp"
+        android:paddingLeft="0dip"
+        android:src="@drawable/chat_avatar_placeholder" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/img"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/img"
+        android:text="Adam Smith"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/dist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name"
+        android:layout_gravity="center"
+        android:layout_marginTop="2dip"
+        android:layout_toRightOf="@id/img"
+        android:gravity="right"
+        android:text="Feel the love today"
+        android:textSize="12sp"
+        android:textStyle="italic" />
+
+</RelativeLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/activity_chat_item.xml -->

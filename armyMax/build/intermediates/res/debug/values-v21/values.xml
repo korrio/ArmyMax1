@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/ArmyMax1/apprtc/unspecified/res/values-v21/values.xml -->
+    <eat-comment/>
+    <style name="AppRTCDemoActivityTheme" parent="android:Theme.Material">
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+    <style name="NavigationButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:background">@null</item>
+    </style>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/build/intermediates/exploded-aar/com.nispok/snackbar/2.9.1/res/values-v21/values.xml -->
+    <eat-comment/>
+    <style name="Snackbar.Text.Action">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/sb__action_text_color</item>
+        <item name="android:background">@drawable/sb__btn_bg</item>
+    </style>
+</resources>

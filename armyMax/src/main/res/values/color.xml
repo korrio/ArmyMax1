@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#ccc</color>
+    <color name="counter_text_bg">#f00</color>
+    <color name="counter_text_color">#ffffff</color>
+    <color name="action_bar">#0e4800</color>
+    <color name="action_bar2">#858c45</color>
+    <color name="action_bar3">#3ca7b5</color>
+    <color name="action_bar4">#1f2649</color>
+    <color name="view_pager">#312783</color>
+    <color name="off_white">#99ffffff</color>
+    <color name="transdark">#aa000000</color>
+    <color name="translight">#33000000</color>
+
+    <color name="selected">#FFEEEEFF</color>
+    <color name="comment">#FFEEFFEE</color>
+    <color name="feed">#FFEEEEEE</color>
+
+    <color name="transparent_grey">#AA666666</color>
+    <color name="action_bar_background_color">#0e4800</color>
+    <color name="link_text_color">#0d70b3</color>
+
+    <color name="badge_participants_counter_color">#0d70b3</color>
+    <color name="badge_unread_messages_counter_color">#d20000</color>
+    <color name="badge_online_color">#1cba48</color>
+
+    <color name="button_global_search_normal_color">#00bf28</color>
+    <color name="button_global_search_pressed_color">#00851c</color>
+    <color name="button_sign_up_normal_green_color">#00bf28</color>
+    <color name="button_sign_up_pressed_green_color">#00851c</color>
+    <color name="button_sign_up_normal_blue_color">#0077cb</color>
+    <color name="button_sign_up_pressed_blue_color">#00538e</color>
+    <color name="button_facebook_normal_color">#3b5998</color>
+    <color name="button_facebook_pressed_color">#ff265198</color>
+    <color name="button_log_in_normal_color">#00bf28</color>
+    <color name="button_log_in_pressed_color">#00851c</color>
+    <color name="button_null_background_pressed_color">#e4f4ff</color>
+    <color name="button_end_call_normal_color">#ff0000</color>
+    <color name="button_end_call_pressed_color">#e4f4ff</color>
+
+
+    <color name="avatar_border_color">#ffffff</color>
+    <color name="circle_view_mask_color">#ffffff</color>
+
+    <color name="menu_item_background_pressed_color">#1cba48</color>
+    <color name="menu_item_background_longpressed_color">#ff9de8a2</color>
+    <color name="menu_item_background_activated_color">#1cba48</color>
+    <color name="list_item_background_pressed_color">#e4f4ff</color>
+
+    <color name="light_gray">#ffefefef</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#999999</color>
+    <color name="dark_gray">#ff6c6c6c</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#1cba48</color>
+    <color name="blue">#0d70b3</color>
+
+    <color name="chat_background_color">#f5f5f5</color>
+
+    <color name="screen_call_background_color">#333333</color>
+    <color name="screen_call_timer_text_color">#999999</color>
+
+    <color name="dlg_message_name_color">#0d70b3</color>
+
+    <color name="error_color">#ffe03d3e</color>
+    <color name="guide_bg_color">#ff1f1f24</color>
+
+    <color name="top_bar_color">#ff1f1f24</color>
+
+    <color name="bg_dialog_title_color">#ff0bafde</color>
+    <color name="signup_button_nor_color">#ffd85445</color>
+    <color name="signup_button_pressed_color">#ffa54034</color>
+    <color name="signup_button_disable_color">#ffd85445</color>
+
+    <color name="contact_info_bg">#fff0f0f0</color>
+
+    <color name="home_text_deep_color">#ff373737</color>
+    <color name="home_text_light_color">#ff808080</color>
+    <color name="home_text_high_light_color">#ffa0a0a0</color>
+    <color name="home_text_high_color">#fff0f0f0</color>
+
+    <color name="home_line_color">#ffe0e0e0</color>
+    <color name="home_listview_line_color">#ffe0e0e0</color>
+    <color name="home_popup_line_color">#fff0f0f0</color>
+
+    <color name="home_popup_nor_color">#ff808080</color>
+    <color name="home_popup_pressed_color">#ffffffff</color>
+    <color name="home_bottom_button_color_nor">#ff808080</color>
+    <color name="home_bottom_button_color_pressed">#ff27aae0</color>
+    <color name="home_popup_text_color_nor">#ff27aae0</color>
+    <color name="home_popup_text_color_pressed">#ffffffff</color>
+    <color name="home_empty_text_color">#ffaeaeae</color>
+
+    <color name="top_title_color">#ff2d8ed9</color>
+    <color name="contact_first_alphabet_bg_color">#fff0f0f0</color>
+    <color name="contact_list_name_color">#ff333333</color>
+
+    <color name="gray_white_color">#fff0f0f0</color>
+    <color name="quick_call_main_bg_color">#ff1f1f24</color>
+
+
+
+    <color name="white_color">#ffffffff</color>
+    <color name="black_color">#ff000000</color>
+    <color name="gray_color">#ff808080</color>
+    <color name="little_gray_color">#ffcacaca</color>
+    <color name="transparent_full">#00000000</color>
+    <color name="transparent_half">#90000000</color>
+    <color name="gray_line_color">#ffdddddd</color>
+    <color name="blue_color">#ff0bafde</color>
+    <color name="orange_color">#fff48221</color>
+    <color name="green_color">#ff71bf95</color>
+
+    <color name="view_background">#e8ecfa</color>
+    <color name="btn_bg">#277bec</color>
+    <color name="txt_font">#4e5572</color>
+
+
+
+</resources>

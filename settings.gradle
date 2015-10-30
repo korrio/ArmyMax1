@@ -1,0 +1,5 @@
+include ':androidBootstrap', ':apprtc'
+include ':libcropimage'
+include ':iofabricsdkandroid_fabric_2'
+include ':crosswalkwebview63513113arm'
+include ':armyMax'

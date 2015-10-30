@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="3dp" >
+
+  <ImageView
+      android:id="@+id/profile_avatar"
+      android:layout_width="wrap_content"
+      android:layout_height="95dp"
+      android:src="@drawable/contact_picture_placeholder" />
+
+  <TextView
+      android:id="@+id/url"
+      android:layout_width="match_parent"
+      android:layout_height="40dp"
+      android:layout_marginLeft="25dp"
+      android:text="Name"
+      android:textColor="#252525" />
+
+</LinearLayout>
+
+<!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/fragment_people_item.xml -->

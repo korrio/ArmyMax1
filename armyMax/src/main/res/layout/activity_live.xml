@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:app1="http://schemas.android.com/apk/res/com.ame.armymax"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:gravity="top" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/TextView02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ชื่อรายการ"
+            android:textSize="16dp" />
+
+        <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/room_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:ems="10"
+            android:gravity="center|left"
+            android:hint="ใส่ชื่อรายการ"
+            app:be_roundedCorners="true" />
+
+        <TextView
+            android:id="@+id/version_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="รายละเอียดการถ่ายทอดสด"
+            android:textSize="16dp" />
+
+        <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/desc_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:ems="10"
+            android:gravity="center|left"
+            android:hint="ใส่รายละเอียด"
+            app:be_roundedCorners="true" />
+    </LinearLayout>
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/button_live"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:layout_marginTop="30dp"
+        android:enabled="true"
+        android:text="Live !"
+        app:bb_icon_right="fa-video-camera"
+        app:bb_roundedCorners="true"
+        app:bb_type="danger" >
+
+    </com.beardedhen.androidbootstrap.BootstrapButton>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_alignTop="@+id/button_live"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical" >
+
+        <ProgressBar
+            android:id="@+id/progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout>

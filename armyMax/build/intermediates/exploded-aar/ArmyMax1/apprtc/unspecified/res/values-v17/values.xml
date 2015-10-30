@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/apprtc/src/main/res/values-v17/styles.xml -->
+    <eat-comment/>
+    <style name="CallActivityTheme" parent="android:Theme.Black">
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+    <style name="NavigationButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:background">@null</item>
+    </style>
+</resources>

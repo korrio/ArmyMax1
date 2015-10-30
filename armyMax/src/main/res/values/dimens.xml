@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- ActionBar color strip -->
+    <dimen name="colorstrip">5dp</dimen>
+    <dimen name="grid_image_size">120dp</dimen>
+    
+    <dimen name="tb_size">30dp</dimen>
+    <dimen name="chat_tb_size">50dp</dimen>
+    
+    <dimen name="content_tb">800dp</dimen>
+    <dimen name="content_tb_height">300dp</dimen>
+    
+    <dimen name="broadcast_live_banner_width">190dp</dimen>
+
+</resources>

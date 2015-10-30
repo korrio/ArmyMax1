@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="300dp"
+    android:background="@drawable/bg_gray_texture" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/call_chat"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_btn_beige"
+            android:gravity="center"
+            android:text="Chat"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/call_audio"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_btn_beige"
+            android:gravity="center"
+            android:text="Audio Call"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/call_video"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_btn_beige"
+            android:gravity="center"
+            android:text="Video Call"
+            android:textColor="#000000" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/text_title"
+        android:layout_centerHorizontal="true"
+        android:padding="5dp"
+        android:paddingBottom="3dp"
+        android:src="@drawable/custom_btn_beige" />
+
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="48dp"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#fff" />
+
+</RelativeLayout><!-- From: file:/Users/Mac/Desktop/android.2015/android.studio/ArmyMax1/armyMax/src/main/res/layout/profile_dialog.xml -->

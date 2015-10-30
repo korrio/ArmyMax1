@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flyplayerlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/armyMax/libs/flyplayerlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

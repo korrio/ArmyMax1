@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_image" >
+
+    <LinearLayout
+        android:id="@+id/formLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/avatar"
+                android:layout_width="95dp"
+                android:layout_height="95dp"
+                android:src="@drawable/avatar_placeholder" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/firstName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="First name"
+                    android:visibility="gone" />
+
+                <EditText
+                    android:id="@+id/lastName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Last name"
+                    android:visibility="gone" />
+
+                <EditText
+                    android:id="@+id/username"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="เลขบัตรข้าราชการ" />
+
+                <EditText
+                    android:id="@+id/password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="เบอร์โทรศัพท์มือถือ"
+                    android:inputType="textPassword" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/emailSignup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="อีเมลล์" />
+
+        <EditText
+            android:id="@+id/passwordRepeat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Repeat password"
+            android:inputType="textPassword"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/activityLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/play"
+        android:layout_marginBottom="24dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/play"
+        android:text="เปิดบัญชี ArmyMax"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#252525"
+        android:textSize="24sp"
+        android:visibility="visible" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/formLayout"
+        android:layout_below="@+id/formLayout"
+        android:text="I agree to the Terms of Use and Privacy Policy"
+        android:textColor="#000"
+        android:visibility="gone" />
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/formLayout"
+        android:layout_below="@+id/checkBox2"
+        android:text="I certify I am over 14 years old"
+        android:textColor="#000"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/formLayout"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="14dp"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/signUpButton"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox1"
+        android:layout_margin="20dp"
+        android:background="@drawable/button_sign_up_blue_selector"
+        android:onClick="signUpOnClickListener"
+        android:text="@string/sup_sign_up"
+        android:textColor="@color/white"
+        android:textSize="@dimen/button_text_size" />
+
+    <TextView
+        android:id="@+id/user_agreement_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/signUpButton"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:background="@drawable/button_general_selector"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/uag_user_agreement"
+        android:textColor="@color/gray"
+        android:textSize="@dimen/text_size_small"
+        android:visibility="gone" />
+
+</RelativeLayout>
